@@ -1,1 +1,1 @@
-# Giardia-beaver
+# My Genome - Giardia-beaver
