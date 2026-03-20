@@ -1,0 +1,53 @@
+/arf/home/ecil/miniconda3/envs/giardia_env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:275: FutureWarning: You are using a Python version (3.10.20) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1774028303.941439  472953 instrument.cc:563] Metric with name 'grpc.resource_quota.calls_dropped' registered more than once. Ignoring later registration.
+E0000 00:00:1774028303.944463  472953 instrument.cc:563] Metric with name 'grpc.resource_quota.calls_rejected' registered more than once. Ignoring later registration.
+E0000 00:00:1774028303.944502  472953 instrument.cc:563] Metric with name 'grpc.resource_quota.connections_dropped' registered more than once. Ignoring later registration.
+E0000 00:00:1774028303.944532  472953 instrument.cc:563] Metric with name 'grpc.resource_quota.instantaneous_memory_pressure' registered more than once. Ignoring later registration.
+E0000 00:00:1774028303.944560  472953 instrument.cc:563] Metric with name 'grpc.resource_quota.memory_pressure_control_value' registered more than once. Ignoring later registration.
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Job stats:
+job              count
+-------------  -------
+all                  1
+flye_assembly        1
+total                2
+
+Select jobs to execute...
+/arf/home/ecil/miniconda3/envs/giardia_env/lib/python3.10/site-packages/stopit/__init__.py:10: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+
+[Fri Mar 20 20:38:27 2026]
+rule flye_assembly:
+    input: ../raw_data/SRR25944771.fastq
+    output: results/flye_assembly/assembly.fasta
+    jobid: 1
+    reason: Missing output files: results/flye_assembly/assembly.fasta
+    threads: 4
+    resources: tmpdir=/tmp
+
+[2026-03-20 20:38:27] INFO: Starting Flye 2.9.6-b1802
+[2026-03-20 20:38:27] INFO: >>>STAGE: configure
+[2026-03-20 20:38:27] INFO: Configuring run
+[2026-03-20 20:38:36] INFO: Total read length: 2238607998
+[2026-03-20 20:38:36] INFO: Input genome size: 12000000
+[2026-03-20 20:38:36] INFO: Estimated coverage: 186
+[2026-03-20 20:38:36] INFO: Reads N50/N90: 14263 / 3257
+[2026-03-20 20:38:36] INFO: Minimum overlap set to 3000
+[2026-03-20 20:38:36] INFO: >>>STAGE: assembly
+[2026-03-20 20:38:36] INFO: Assembling disjointigs
+[2026-03-20 20:38:36] INFO: Reading sequences
+[2026-03-20 20:38:44] INFO: Counting k-mers:
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2026-03-20 20:41:44] INFO: Filling index table (1/2)
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2026-03-20 20:45:21] INFO: Filling index table (2/2)
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2026-03-20 20:49:09] INFO: Extending reads
+[2026-03-20 20:49:29] INFO: Overlap-based coverage: 89
+[2026-03-20 20:49:29] INFO: Median overlap divergence: 0.187686
+0% 20% 30% 40% 50% 60% 70% 80% slurmstepd: error: *** JOB 5407217 ON barbun80 CANCELLED AT 2026-03-20T20:53:46 DUE TO TIME LIMIT ***
