@@ -1,0 +1,116 @@
+/arf/home/ecil/miniconda3/envs/giardia_env/bin/quast.py /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/assembly.fasta -r ref_genome_rename.fasta -o quast_resultss/
+
+Version: 5.3.0
+
+System information:
+  OS: Linux-5.14.0-284.11.1.el9_2.x86_64-x86_64-with-glibc2.34 (linux_64)
+  Python version: 3.10.20
+  CPUs number: 56
+
+Started: 2026-04-13 23:24:43
+
+Logging to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/quast.log
+NOTICE: Maximum number of threads is set to 14 (use --threads option to set it manually)
+
+CWD: /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results
+Main parameters: 
+  MODE: default, threads: 14, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Reference:
+  /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/ref_genome_rename.fasta ==> ref_genome_rename
+
+Contigs:
+  Pre-processing...
+  /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/assembly.fasta ==> assembly
+
+2026-04-13 23:24:58
+Running Basic statistics processor...
+  Reference genome:
+    ref_genome_rename.fasta, length = 12078186, num fragments = 35, GC % = 49.73
+WARNING:   Reference genome is fragmented. You may consider rerunning QUAST using --fragmented option. QUAST will try to detect misassemblies caused by the fragmentation and mark them fake (will be excluded from # misassemblies).
+  Contig files: 
+    assembly
+  Calculating N50 and L50...
+    assembly, N50 = 1729116, L50 = 3, auN = 1656856.6, Total length = 11599085, GC % = 49.81, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/basic_stats/GC_content_plot.pdf
+  Drawing assembly GC content plot...
+    saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/basic_stats/assembly_GC_content_plot.pdf
+Done.
+
+2026-04-13 23:25:05
+Running Contig analyzer...
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.28). Please make sure that you use an actual version of software.
+  assembly
+  Logging to files /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/contigs_reports/contigs_report_assembly.stdout and contigs_report_assembly.stderr...
+  Aligning contigs to the reference
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.28). Please make sure that you use an actual version of software.
+  /arf/home/ecil/miniconda3/envs/giardia_env/bin/minimap2 -c -x asm10 -B5 -O4,16 --no-long-join \
+  -r 200 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs \
+  -t 14 quast_resultss/quast_corrected_input/ref_genome_rename.fasta quast_resultss/quast_corrected_input/assembly.fasta \
+  > quast_resultss/contigs_reports/minimap_output/assembly.coords_tmp 2>> quast_resultss/contigs_reports/contigs_report_assembly.stderr
+  Analysis is finished.
+
+  Creating total report...
+    saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2026-04-13 23:25:11
+Running NA-NGA calculation...
+  assembly, Largest alignment = 1525512, NA50 = 915322, NGA50 = 915322, LA50 = 5, LGA50 = 5
+  Drawing cumulative plot...
+    saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/aligned_stats/NGAx_plot.pdf
+Done.
+
+2026-04-13 23:25:12
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  assembly
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2026-04-13 23:25:15
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2026-04-13 23:25:16
+RESULTS:
+  Text versions of total report are saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/report.html
+  PDF version (tables and plots) is saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/report.pdf
+  Icarus (contig browser) is saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/icarus.html
+  Log is saved to /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/quast.log
+
+Finished: 2026-04-13 23:25:16
+Elapsed time: 0:00:33.699047
+NOTICEs: 4; WARNINGs: 3; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

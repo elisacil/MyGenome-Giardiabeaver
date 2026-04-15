@@ -1,0 +1,115 @@
+/arf/home/ecil/miniconda3/envs/giardia_env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:275: FutureWarning: You are using a Python version (3.10.20) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1776023003.799447   65713 instrument.cc:563] Metric with name 'grpc.resource_quota.calls_dropped' registered more than once. Ignoring later registration.
+E0000 00:00:1776023003.800889   65713 instrument.cc:563] Metric with name 'grpc.resource_quota.calls_rejected' registered more than once. Ignoring later registration.
+E0000 00:00:1776023003.800899   65713 instrument.cc:563] Metric with name 'grpc.resource_quota.connections_dropped' registered more than once. Ignoring later registration.
+E0000 00:00:1776023003.800906   65713 instrument.cc:563] Metric with name 'grpc.resource_quota.instantaneous_memory_pressure' registered more than once. Ignoring later registration.
+E0000 00:00:1776023003.800914   65713 instrument.cc:563] Metric with name 'grpc.resource_quota.memory_pressure_control_value' registered more than once. Ignoring later registration.
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Job stats:
+job              count
+-------------  -------
+all                  1
+flye_assembly        1
+total                2
+
+Select jobs to execute...
+/arf/home/ecil/miniconda3/envs/giardia_env/lib/python3.10/site-packages/stopit/__init__.py:10: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+
+[Sun Apr 12 22:43:26 2026]
+rule flye_assembly:
+    input: ../raw_data/SRR25944771.fastq
+    output: results/flye_assembly/assembly.fasta
+    jobid: 1
+    reason: Missing output files: results/flye_assembly/assembly.fasta
+    threads: 4
+    resources: tmpdir=/tmp
+
+[2026-04-12 22:43:27] INFO: Starting Flye 2.9.6-b1802
+[2026-04-12 22:43:27] INFO: >>>STAGE: configure
+[2026-04-12 22:43:27] INFO: Configuring run
+[2026-04-12 22:43:36] INFO: Total read length: 2238607998
+[2026-04-12 22:43:36] INFO: Input genome size: 12000000
+[2026-04-12 22:43:36] INFO: Estimated coverage: 186
+[2026-04-12 22:43:36] INFO: Reads N50/N90: 14263 / 3257
+[2026-04-12 22:43:36] INFO: Minimum overlap set to 3000
+[2026-04-12 22:43:36] INFO: >>>STAGE: assembly
+[2026-04-12 22:43:36] INFO: Assembling disjointigs
+[2026-04-12 22:43:36] INFO: Reading sequences
+[2026-04-12 22:43:46] INFO: Counting k-mers:
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2026-04-12 22:47:25] INFO: Filling index table (1/2)
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2026-04-12 22:51:26] INFO: Filling index table (2/2)
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2026-04-12 22:55:27] INFO: Extending reads
+[2026-04-12 22:55:51] INFO: Overlap-based coverage: 89
+[2026-04-12 22:55:51] INFO: Median overlap divergence: 0.187686
+0% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2026-04-12 23:04:13] INFO: Assembled 42 disjointigs
+[2026-04-12 23:04:15] INFO: Generating sequence
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2026-04-12 23:04:37] INFO: Filtering contained disjointigs
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2026-04-12 23:04:43] INFO: Contained seqs: 11
+[2026-04-12 23:04:44] INFO: >>>STAGE: consensus
+[2026-04-12 23:04:44] INFO: Running Minimap2
+[2026-04-12 23:19:04] INFO: Computing consensus
+[2026-04-12 23:28:15] INFO: Alignment error rate: 0.262577
+[2026-04-12 23:28:15] INFO: >>>STAGE: repeat
+[2026-04-12 23:28:15] INFO: Building and resolving repeat graph
+[2026-04-12 23:28:15] INFO: Parsing disjointigs
+[2026-04-12 23:28:16] INFO: Building repeat graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2026-04-12 23:30:35] INFO: Median overlap divergence: 0.136536
+[2026-04-12 23:30:35] INFO: Parsing reads
+[2026-04-12 23:30:43] INFO: Aligning reads to the graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2026-04-12 23:36:27] INFO: Aligned read sequence: 1601842027 / 2037779061 (0.786072)
+[2026-04-12 23:36:27] INFO: Median overlap divergence: 0.115671
+[2026-04-12 23:36:28] INFO: Mean edge coverage: 144
+[2026-04-12 23:36:28] INFO: Simplifying the graph
+[2026-04-12 23:36:31] INFO: >>>STAGE: contigger
+[2026-04-12 23:36:31] INFO: Generating contigs
+[2026-04-12 23:36:31] INFO: Reading sequences
+[2026-04-12 23:36:39] INFO: Generated 37 contigs
+[2026-04-12 23:36:39] INFO: Added 1 scaffold connections
+[2026-04-12 23:36:40] INFO: >>>STAGE: polishing
+[2026-04-12 23:36:40] INFO: Polishing genome (1/1)
+[2026-04-12 23:36:40] INFO: Running minimap2
+[2026-04-12 23:46:28] INFO: Separating alignment into bubbles
+[2026-04-12 23:55:46] INFO: Alignment error rate: 0.206740
+[2026-04-12 23:55:46] INFO: Correcting bubbles
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2026-04-13 00:18:01] INFO: >>>STAGE: finalize
+[2026-04-13 00:18:01] INFO: Assembly statistics:
+
+	Total length:	11599085
+	Fragments:	24
+	Fragments N50:	1729116
+	Largest frg:	2672911
+	Scaffolds:	0
+	Mean coverage:	168
+
+[2026-04-13 00:18:01] INFO: Final assembly: /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/assembly.fasta
+[Mon Apr 13 00:18:01 2026]
+Finished job 1.
+1 of 2 steps (50%) done
+Select jobs to execute...
+
+[Mon Apr 13 00:18:01 2026]
+localrule all:
+    input: results/flye_assembly/assembly.fasta
+    jobid: 0
+    reason: Input files updated by another job: results/flye_assembly/assembly.fasta
+    resources: tmpdir=/tmp
+
+[Mon Apr 13 00:18:01 2026]
+Finished job 0.
+2 of 2 steps (100%) done
+Complete log: .snakemake/log/2026-04-12T224323.022118.snakemake.log

@@ -1,0 +1,14 @@
+[samfaipath] build FASTA index...
+[M::mm_idx_gen::0.415*1.00] collected minimizers
+[M::mm_idx_gen::0.493*1.46] sorted minimizers
+[M::main::0.493*1.46] loaded/built the index for 31 target sequence(s)
+[M::mm_mapopt_update::0.530*1.42] mid_occ = 19
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 31
+[M::mm_idx_stat::0.560*1.40] distinct minimizers: 2223184 (96.70% are singletons); average occurrences: 1.064; average spacing: 5.340; total length: 12631745
+[M::worker_pipeline::379.220*3.98] mapped 136456 sequences
+[M::worker_pipeline::762.338*3.99] mapped 141117 sequences
+[M::worker_pipeline::824.743*3.98] mapped 30715 sequences
+[M::main] Version: 2.24-r1155-dirty
+[M::main] CMD: flye-minimap2 -x map-ont -t 4 -a -p 0.5 -N 10 --sam-hit-only -L -K 1G -z 1000 -Q --secondary-seq -I 64G /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/00-assembly/draft_assembly.fasta /arf/scratch/ecil/MyGenome-Giardiabeaver/raw_data/SRR25944771.fastq
+[M::main] Real time: 824.840 sec; CPU: 3281.847 sec; Peak RSS: 6.097 GB
+[bam_sort_core] merging from 4 files and 4 in-memory blocks...

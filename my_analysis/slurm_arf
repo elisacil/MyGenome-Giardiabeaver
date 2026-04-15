@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH -p hamsi
+#SBATCH -A ecil
+#SBATCH --job-name=snakemake
+#SBATCH --output=out_snakemake
+#SBATCH --error=err_snakemake
+#SBATCH -N 1
+#SBATCH -n 56
+#SBATCH --mail-user=elisacil089@gmail.com
+#SBATCH --mail-type=ALL
+#SBATCH --time=03-00:00:00
+snakemake --cores 8 

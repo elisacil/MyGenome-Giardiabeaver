@@ -1,0 +1,48 @@
+reference chromosomes:
+	CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence (total length: 1485438 bp, total length without N's: 1485438 bp, maximal covered length: 1479901 bp)
+	CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence (total length: 1539535 bp, total length without N's: 1539535 bp, maximal covered length: 1532588 bp)
+	CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence (total length: 1973847 bp, total length without N's: 1964500 bp, maximal covered length: 1950501 bp)
+	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence (total length: 2761001 bp, total length without N's: 2761001 bp, maximal covered length: 2750400 bp)
+	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence (total length: 4018654 bp, total length without N's: 3623290 bp, maximal covered length: 3595852 bp)
+	AACB03000006.1_Giardia_duodenalis_strain_WB_C6_tig00000001__whole_genome_shotgun_sequence (total length: 17561 bp, total length without N's: 17561 bp, maximal covered length: 1662 bp)
+	AACB03000007.1_Giardia_duodenalis_strain_WB_C6_tig00000004__whole_genome_shotgun_sequence (total length: 32836 bp, total length without N's: 32836 bp, maximal covered length: 30063 bp)
+	AACB03000008.1_Giardia_duodenalis_strain_WB_C6_tig00000005__whole_genome_shotgun_sequence (total length: 16058 bp, total length without N's: 16058 bp, maximal covered length: 0 bp)
+	AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence (total length: 10473 bp, total length without N's: 10473 bp, maximal covered length: 10473 bp)
+	AACB03000010.1_Giardia_duodenalis_strain_WB_C6_tig00000011__whole_genome_shotgun_sequence (total length: 22518 bp, total length without N's: 22518 bp, maximal covered length: 3452 bp)
+	AACB03000011.1_Giardia_duodenalis_strain_WB_C6_tig00000012__whole_genome_shotgun_sequence (total length: 5185 bp, total length without N's: 5185 bp, maximal covered length: 0 bp)
+	AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence (total length: 9026 bp, total length without N's: 9026 bp, maximal covered length: 6145 bp)
+	AACB03000013.1_Giardia_duodenalis_strain_WB_C6_tig00000020__whole_genome_shotgun_sequence (total length: 8231 bp, total length without N's: 8231 bp, maximal covered length: 0 bp)
+	AACB03000014.1_Giardia_duodenalis_strain_WB_C6_tig00000022__whole_genome_shotgun_sequence (total length: 9233 bp, total length without N's: 9233 bp, maximal covered length: 0 bp)
+	AACB03000015.1_Giardia_duodenalis_strain_WB_C6_tig00000023__whole_genome_shotgun_sequence (total length: 3464 bp, total length without N's: 3464 bp, maximal covered length: 0 bp)
+	AACB03000016.1_Giardia_duodenalis_strain_WB_C6_tig00000024__whole_genome_shotgun_sequence (total length: 10865 bp, total length without N's: 10865 bp, maximal covered length: 0 bp)
+	AACB03000017.1_Giardia_duodenalis_strain_WB_C6_tig00000025__whole_genome_shotgun_sequence (total length: 10211 bp, total length without N's: 10211 bp, maximal covered length: 0 bp)
+	AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence (total length: 11372 bp, total length without N's: 11372 bp, maximal covered length: 6248 bp)
+	AACB03000019.1_Giardia_duodenalis_strain_WB_C6_tig00000033__whole_genome_shotgun_sequence (total length: 8207 bp, total length without N's: 8207 bp, maximal covered length: 0 bp)
+	AACB03000020.1_Giardia_duodenalis_strain_WB_C6_tig00000034__whole_genome_shotgun_sequence (total length: 6922 bp, total length without N's: 6922 bp, maximal covered length: 0 bp)
+	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence (total length: 8483 bp, total length without N's: 8483 bp, maximal covered length: 3709 bp)
+	AACB03000022.1_Giardia_duodenalis_strain_WB_C6_tig00000037__whole_genome_shotgun_sequence (total length: 2678 bp, total length without N's: 2678 bp, maximal covered length: 0 bp)
+	AACB03000023.1_Giardia_duodenalis_strain_WB_C6_tig00000038__whole_genome_shotgun_sequence (total length: 4926 bp, total length without N's: 4926 bp, maximal covered length: 0 bp)
+	AACB03000024.1_Giardia_duodenalis_strain_WB_C6_tig00000040__whole_genome_shotgun_sequence (total length: 6407 bp, total length without N's: 6407 bp, maximal covered length: 0 bp)
+	AACB03000025.1_Giardia_duodenalis_strain_WB_C6_tig00000042__whole_genome_shotgun_sequence (total length: 5369 bp, total length without N's: 5369 bp, maximal covered length: 0 bp)
+	AACB03000026.1_Giardia_duodenalis_strain_WB_C6_tig00000046__whole_genome_shotgun_sequence (total length: 5596 bp, total length without N's: 5596 bp, maximal covered length: 0 bp)
+	AACB03000027.1_Giardia_duodenalis_strain_WB_C6_tig00000047__whole_genome_shotgun_sequence (total length: 2889 bp, total length without N's: 2889 bp, maximal covered length: 0 bp)
+	AACB03000028.1_Giardia_duodenalis_strain_WB_C6_tig00000161__whole_genome_shotgun_sequence (total length: 15856 bp, total length without N's: 15856 bp, maximal covered length: 4670 bp)
+	AACB03000029.1_Giardia_duodenalis_strain_WB_C6_tig00000162__whole_genome_shotgun_sequence (total length: 11204 bp, total length without N's: 11204 bp, maximal covered length: 2103 bp)
+	AACB03000030.1_Giardia_duodenalis_strain_WB_C6_tig00000164__whole_genome_shotgun_sequence (total length: 9593 bp, total length without N's: 9593 bp, maximal covered length: 0 bp)
+	AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence (total length: 10259 bp, total length without N's: 10259 bp, maximal covered length: 9700 bp)
+	AACB03000032.1_Giardia_duodenalis_strain_WB_C6_tig00000166__whole_genome_shotgun_sequence (total length: 6984 bp, total length without N's: 6984 bp, maximal covered length: 0 bp)
+	AACB03000033.1_Giardia_duodenalis_strain_WB_C6_tig00000167__whole_genome_shotgun_sequence (total length: 17765 bp, total length without N's: 17765 bp, maximal covered length: 17031 bp)
+	AACB03000034.1_Giardia_duodenalis_strain_WB_C6_tig00000168__whole_genome_shotgun_sequence (total length: 3797 bp, total length without N's: 3797 bp, maximal covered length: 0 bp)
+	AACB03000035.1_Giardia_duodenalis_strain_WB_C6_tig00000170__whole_genome_shotgun_sequence (total length: 5743 bp, total length without N's: 5743 bp, maximal covered length: 0 bp)
+
+total genome size: 12078186
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+assembly                 | 97.696    | 1.007       | 80        | -         | -         | -         | -         |

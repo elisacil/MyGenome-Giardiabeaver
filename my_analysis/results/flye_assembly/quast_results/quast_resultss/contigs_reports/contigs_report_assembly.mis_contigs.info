@@ -1,0 +1,56 @@
+contig_10
+Extensive misassembly (relocation, inconsistency = 1843) between 568617 693686 and 733497 693687
+Extensive misassembly (relocation, inconsistency = 40486) between 734751 733498 and 734752 1125601
+Extensive misassembly (relocation, inconsistency = 3876) between 734752 1125601 and 1125602 1136911
+Extensive misassembly (translocation) between 1125602 1136911 and 1146695 1136912
+Extensive misassembly (translocation) between 1146695 1136912 and 1146696 1147908
+contig_11
+Extensive misassembly (translocation) between 85905 1 and 96726 86036
+contig_17
+Extensive misassembly (relocation, inconsistency = -10470 [linear representation of circular genome]) between 7616 4 and 18542 8272
+Extensive misassembly (translocation) between 18542 8272 and 28075 18543
+contig_31
+Extensive misassembly (relocation, inconsistency = -1748) between 349683 71816 and 537280 350753
+Extensive misassembly (translocation) between 537280 350753 and 537281 541704
+Extensive misassembly (translocation) between 537281 541704 and 542140 559133
+Extensive misassembly (translocation) between 542140 559133 and 560793 559134
+Extensive misassembly (translocation) between 560793 559134 and 560794 567042
+contig_48
+Extensive misassembly (relocation, inconsistency = 3114) between 1804 1 and 138003 1805
+Extensive misassembly (relocation, inconsistency = -15344) between 138003 1805 and 138004 188717
+Extensive misassembly (inversion) between 138004 188717 and 255918 188718
+Extensive misassembly (translocation) between 255918 188718 and 259869 255919
+Extensive misassembly (translocation) between 263145 259870 and 263146 270419
+contig_5
+Extensive misassembly (translocation) between 16779 1 and 16822 20229
+Extensive misassembly (translocation) between 16822 20229 and 1438108 20230
+Extensive misassembly (relocation, inconsistency = -9337) between 1438108 20230 and 1438109 1441539
+Extensive misassembly (inversion) between 1438109 1441539 and 1729116 1441540
+contig_53
+Extensive misassembly (translocation) between 30008 1 and 30279 33526
+contig_58
+Extensive misassembly (relocation, inconsistency = -10470 [linear representation of circular genome]) between 10240 1 and 21125 10880
+Extensive misassembly (translocation) between 21125 10880 and 28434 21126
+contig_6
+Extensive misassembly (translocation) between 10109 704 and 193627 10110
+Extensive misassembly (translocation) between 1537684 964574 and 1542370 1538026
+contig_7
+Extensive misassembly (inversion) between 1 418707 and 420373 418773
+Extensive misassembly (inversion) between 420373 418773 and 420375 764838
+Extensive misassembly (relocation, inconsistency = 852237) between 1579489 1646882 and 1648106 1647726
+Extensive misassembly (relocation, inconsistency = 752585) between 1648106 1647726 and 1648437 1750507
+Extensive misassembly (relocation, inconsistency = 1854) between 1648437 1750507 and 1750508 2495690
+Extensive misassembly (translocation) between 2496486 2666624 and 2671837 2666625
+contig_8
+Extensive misassembly (relocation, inconsistency = 3842) between 109249 108909 and 1287178 109811
+Extensive misassembly (translocation) between 1514197 1347344 and 1514227 1514293
+Extensive misassembly (relocation, inconsistency = -3601) between 1517510 1518391 and 1518406 1518651
+Extensive misassembly (translocation) between 1520396 1520496 and 1522217 1520497
+Extensive misassembly (translocation) between 1527161 1527017 and 1570229 1527253
+Extensive misassembly (translocation) between 1570229 1527253 and 1570230 1570784
+Extensive misassembly (relocation, inconsistency = -6097) between 1576851 1577054 and 1577230 1577669
+Extensive misassembly (translocation) between 1577764 1578378 and 1950863 1578419
+Extensive misassembly (relocation, inconsistency = -18251) between 1969243 1950864 and 1987349 1969244
+Extensive misassembly (relocation, inconsistency = -18251) between 1987349 1969244 and 1992448 1987350
+contig_9
+Extensive misassembly (relocation, inconsistency = -1698) between 560469 379030 and 890465 560470

@@ -1,0 +1,245 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+341905	911543	1	568616	CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence	contig_10	99.79		True
+local misassembly
+911784	1036911	568617	693686	CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence	contig_10	99.61		True
+relocation, inconsistency = 1843
+1038755	1078652	733497	693687	CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence	contig_10	99.75		True
+local misassembly
+1036912	1038166	734751	733498	CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence	contig_10	99.03		True
+relocation, inconsistency = 40486
+1078653	1470164	734752	1125601	CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence	contig_10	99.79		True
+relocation, inconsistency = 3876
+1474041	1485414	1125602	1136911	CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence	contig_10	99.11		True
+translocation
+1	9807	1146695	1136912	AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence	contig_10	96.48		True
+translocation
+1484110	1485351	1146696	1147908	CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence	contig_10	95.06		True
+CONTIG	contig_10	1157420	misassembled
+4602	90657	85905	1	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_11	99.78		True
+translocation
+4060	14735	96726	86036	AACB03000007.1_Giardia_duodenalis_strain_WB_C6_tig00000004__whole_genome_shotgun_sequence	contig_11	97.09		True
+CONTIG	contig_11	96841	misassembled
+1078269	1081518	3237	1	CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence	contig_12	99.54		True
+CONTIG	contig_12	3237	correct
+1	7751	7616	4	AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence	contig_17	96.95		True
+relocation, inconsistency = -10470 [linear representation of circular genome]
+1	10470	18542	8272	AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence	contig_17	96.64		True
+translocation
+140	9839	28075	18543	AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence	contig_17	96.96		True
+CONTIG	contig_17	28075	misassembled
+2123481	2305371	1	181541	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_28	99.78		True
+CONTIG	contig_28	181541	correct
+2121681	2123441	1	1760	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_29	99.6		True
+CONTIG	contig_29	1760	correct
+1763154	1766224	3066	1	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_30	99.84		True
+CONTIG	contig_30	3066	correct
+1159912	1231833	71815	1	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_31	99.83		True
+local misassembly
+881598	1159686	349683	71816	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_31	99.64		True
+relocation, inconsistency = -1748
+695402	882276	537280	350753	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_31	99.72		True
+translocation
+10985	15388	537281	541704	AACB03000028.1_Giardia_duodenalis_strain_WB_C6_tig00000161__whole_genome_shotgun_sequence	contig_31	98.34		True
+translocation
+1	17031	542140	559133	AACB03000033.1_Giardia_duodenalis_strain_WB_C6_tig00000167__whole_genome_shotgun_sequence	contig_31	99.58		True
+translocation
+1125	2786	560793	559134	AACB03000006.1_Giardia_duodenalis_strain_WB_C6_tig00000001__whole_genome_shotgun_sequence	contig_31	98.61		True
+translocation
+1751	8012	560794	567042	AACB03000033.1_Giardia_duodenalis_strain_WB_C6_tig00000167__whole_genome_shotgun_sequence	contig_31	98.52		True
+CONTIG	contig_31	567042	misassembled
+932678	934511	1827	1	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_34	99.56		True
+CONTIG	contig_34	1827	correct
+810	341904	1757	342250	CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence	contig_4	99.8		True
+CONTIG	contig_4	342250	correct
+6819	8921	2101	1	AACB03000029.1_Giardia_duodenalis_strain_WB_C6_tig00000162__whole_genome_shotgun_sequence	contig_46	98.01		True
+CONTIG	contig_46	2101	correct
+597655	599467	1804	1	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_48	99.48		True
+relocation, inconsistency = 3114
+458096	594540	138003	1805	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_48	99.76		True
+relocation, inconsistency = -15344
+407268	458095	138004	188717	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_48	99.61		True
+inversion
+339889	407267	255918	188718	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_48	99.68		True
+translocation
+3942	7973	259869	255919	AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence	contig_48	97.16		True
+indel: indel (> 5bp)
+481	3810	263145	259870	AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence	contig_48	97.77		True
+translocation
+1478065	1485414	263146	270419	CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence	contig_48	96.06		True
+CONTIG	contig_48	296898	misassembled
+153	16999	16779	1	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_5	99.03		True
+translocation
+2430	5881	16822	20229	AACB03000010.1_Giardia_duodenalis_strain_WB_C6_tig00000011__whole_genome_shotgun_sequence	contig_5	99.16		True
+translocation
+2599032	4018548	1438108	20230	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_5	99.73		True
+relocation, inconsistency = -9337
+2595596	2599031	1438109	1441539	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_5	99.8		True
+inversion
+2307514	2595595	1729116	1441540	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_5	99.79		True
+CONTIG	contig_5	1729116	misassembled
+1	30063	30008	1	AACB03000007.1_Giardia_duodenalis_strain_WB_C6_tig00000004__whole_genome_shotgun_sequence	contig_53	99.4		True
+translocation
+10719	13963	30279	33526	AACB03000028.1_Giardia_duodenalis_strain_WB_C6_tig00000161__whole_genome_shotgun_sequence	contig_53	99.39		True
+CONTIG	contig_53	33526	misassembled
+1	10473	10240	1	AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence	contig_58	96.05		True
+relocation, inconsistency = -10470 [linear representation of circular genome]
+1	10470	21125	10880	AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence	contig_58	96.19		True
+translocation
+2354	9839	28434	21126	AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence	contig_58	95.85		True
+CONTIG	contig_58	28435	misassembled
+1470703	1472603	1	1897	CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence	contig_59	99.53		True
+CONTIG	contig_59	1897	correct
+6803	16199	10109	704	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_6	96.73		True
+translocation
+1355549	1539535	193627	10110	CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence	contig_6	99.7		True
+local misassembly
+582819	1355323	964573	193628	CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence	contig_6	99.77		True
+local misassembly
+9414	583565	1537684	964574	CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence	contig_6	99.74		True
+translocation
+1	4392	1542370	1538026	AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence	contig_6	95.33		True
+CONTIG	contig_6	1551782	misassembled
+1843490	1846587	3092	1	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_63	99.81		True
+CONTIG	contig_63	3092	correct
+1599425	1606785	7339	1	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_65	99.24		True
+CONTIG	contig_65	7339	correct
+2305415	2307463	2045	1	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_67	99.8		True
+CONTIG	contig_67	2045	correct
+2247326	2250564	1	3235	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_68	99.75		True
+CONTIG	contig_68	3235	correct
+94113	513498	1	418707	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_7	99.82		True
+inversion
+513565	515167	420373	418773	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_7	99.88		True
+inversion
+515168	860144	420375	764838	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_7	99.83		True
+local misassembly
+860367	925649	764839	829968	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_7	99.77		True
+local misassembly
+925872	973512	829969	877549	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_7	99.81		True
+local misassembly
+973210	1099083	877550	1003199	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_7	99.79		True
+local misassembly
+1099528	1373510	1003200	1276675	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_7	99.8		True
+local misassembly
+1373736	1676986	1276676	1579488	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_7	99.69		True
+local misassembly
+1677503	1743324	1579489	1646882	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_7	96.99		True
+relocation, inconsistency = 852237
+2596405	2596786	1648106	1647726	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_7	97.91		True
+relocation, inconsistency = 752585
+1741118	1843371	1648437	1750507	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_7	99.79		True
+relocation, inconsistency = 1854
+1845226	2590024	1750508	2495690	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_7	99.56		True
+local misassembly
+2590740	2760984	2496486	2666624	CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence	contig_7	99.59		True
+translocation
+6723	11819	2671837	2666625	CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence	contig_7	96.13		True
+CONTIG	contig_7	2672911	misassembled
+1862751	1970978	108051	2	CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence	contig_8	99.58		True
+local misassembly
+1861635	1861975	109249	108909	CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence	contig_8	99.41		True
+relocation, inconsistency = 3842
+675085	1857231	1287178	109811	CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence	contig_8	99.57		True
+local misassembly
+613927	674184	1347343	1287179	CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence	contig_8	99.6		True
+local misassembly
+447750	614838	1514197	1347344	CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence	contig_8	99.79		True
+translocation
+382	449	1514227	1514293	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	98.62		True
+indel: indel (> 5bp)
+565	1032	1514294	1514750	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	95.09		True
+indel: indel (> 5bp)
+1107	1343	1514751	1514985	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	98.31		True
+indel: indel (> 5bp)
+1440	1685	1514986	1515232	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	98.38		True
+indel: indel (> 5bp)
+1721	2311	1515233	1515825	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	97.81		True
+indel: indel (> 5bp)
+2312	2650	1515958	1516297	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	96.76		True
+local misassembly
+2008	2526	1516544	1517061	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	99.04		True
+local misassembly
+3404	3476	1517071	1517142	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	97.26		True
+indel: indel (> 5bp)
+3505	3655	1517143	1517295	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	98.04		True
+indel: indel (> 5bp)
+3686	3866	1517296	1517474	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	96.13		True
+indel: indel (> 5bp)
+3867	4751	1517510	1518391	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	97.63		True
+relocation, inconsistency = -3601
+1165	1411	1518406	1518651	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	98.79		True
+indel: indel (> 5bp)
+1412	1664	1518716	1518970	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	98.43		True
+indel: indel (> 5bp)
+1665	2145	1519092	1519573	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	98.13		True
+indel: indel (> 5bp)
+2146	2213	1519603	1519669	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	98.53		True
+indel: indel (> 5bp)
+2214	2887	1519728	1520395	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	98.52		True
+indel: indel (> 5bp)
+2915	3016	1520396	1520496	AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence	contig_8	98.5		True
+translocation
+6738	8477	1522217	1520497	AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence	contig_8	98.39		True
+indel: indel (> 5bp)
+6120	6670	1522755	1522218	AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence	contig_8	97.64		True
+indel: indel (> 5bp)
+4990	5956	1523717	1522756	AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence	contig_8	98.76		True
+indel: indel (> 5bp)
+3893	4811	1524631	1523718	AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence	contig_8	98.69		True
+indel: indel (> 5bp)
+3640	3867	1524859	1524632	AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence	contig_8	98.68		True
+indel: indel (> 5bp)
+3496	3610	1524975	1524860	AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence	contig_8	98.28		True
+indel: indel (> 5bp)
+3354	3444	1525218	1525129	AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence	contig_8	98.9		True
+local misassembly
+3087	3209	1525553	1525431	AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence	contig_8	100.0		True
+indel: indel (> 5bp)
+2498	3086	1526250	1525668	AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence	contig_8	98.47		True
+indel: indel (> 5bp)
+1970	2497	1526845	1526316	AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence	contig_8	98.3		True
+indel: indel (> 5bp)
+1826	1969	1527016	1526874	AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence	contig_8	97.22		True
+indel: indel (> 5bp)
+1646	1795	1527161	1527017	AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence	contig_8	96.0		True
+translocation
+405122	448090	1570229	1527253	CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence	contig_8	99.27		True
+translocation
+3515	4072	1570230	1570784	AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence	contig_8	99.18		True
+indel: indel (> 5bp)
+4125	4253	1570785	1570911	AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence	contig_8	98.45		True
+indel: indel (> 5bp)
+4305	5970	1570912	1572578	AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence	contig_8	96.88		True
+local misassembly
+6409	8761	1572842	1575167	AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence	contig_8	97.03		True
+indel: indel (> 5bp)
+8762	8939	1575268	1575444	AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence	contig_8	99.44		True
+indel: indel (> 5bp)
+8940	9179	1575585	1575820	AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence	contig_8	95.42		True
+indel: indel (> 5bp)
+9180	10102	1575876	1576800	AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence	contig_8	96.76		True
+indel: indel (> 5bp)
+10103	10303	1576851	1577054	AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence	contig_8	98.53		True
+relocation, inconsistency = -6097
+4382	4826	1577230	1577669	AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence	contig_8	95.73		True
+indel: indel (> 5bp)
+4827	5436	1577764	1578378	AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence	contig_8	98.21		True
+translocation
+23120	395589	1950863	1578419	CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence	contig_8	99.59		True
+local misassembly
+4868	23372	1969243	1950864	CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence	contig_8	98.41		True
+relocation, inconsistency = -18251
+4868	23118	1987349	1969244	CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence	contig_8	97.49		True
+relocation, inconsistency = -18251
+17967	23118	1992448	1987350	CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence	contig_8	96.82		True
+CONTIG	contig_8	1992448	misassembled
+1987292	2121637	134149	1	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_9	99.78		True
+local misassembly
+1741828	1987084	379029	134150	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_9	99.83		True
+local misassembly
+1560528	1742277	560469	379030	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_9	99.82		True
+relocation, inconsistency = -1698
+1231819	1562225	890465	560470	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_9	99.76		True
+local misassembly
+1231945	1232682	891201	890466	CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence	contig_9	99.56		True
+CONTIG	contig_9	891201	misassembled

@@ -1,0 +1,761 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence]
+	Loaded [CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence]
+	Loaded [CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence]
+	Loaded [CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence]
+	Loaded [CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence]
+	Loaded [AACB03000006.1_Giardia_duodenalis_strain_WB_C6_tig00000001__whole_genome_shotgun_sequence]
+	Loaded [AACB03000007.1_Giardia_duodenalis_strain_WB_C6_tig00000004__whole_genome_shotgun_sequence]
+	Loaded [AACB03000008.1_Giardia_duodenalis_strain_WB_C6_tig00000005__whole_genome_shotgun_sequence]
+	Loaded [AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence]
+	Loaded [AACB03000010.1_Giardia_duodenalis_strain_WB_C6_tig00000011__whole_genome_shotgun_sequence]
+	Loaded [AACB03000011.1_Giardia_duodenalis_strain_WB_C6_tig00000012__whole_genome_shotgun_sequence]
+	Loaded [AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence]
+	Loaded [AACB03000013.1_Giardia_duodenalis_strain_WB_C6_tig00000020__whole_genome_shotgun_sequence]
+	Loaded [AACB03000014.1_Giardia_duodenalis_strain_WB_C6_tig00000022__whole_genome_shotgun_sequence]
+	Loaded [AACB03000015.1_Giardia_duodenalis_strain_WB_C6_tig00000023__whole_genome_shotgun_sequence]
+	Loaded [AACB03000016.1_Giardia_duodenalis_strain_WB_C6_tig00000024__whole_genome_shotgun_sequence]
+	Loaded [AACB03000017.1_Giardia_duodenalis_strain_WB_C6_tig00000025__whole_genome_shotgun_sequence]
+	Loaded [AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence]
+	Loaded [AACB03000019.1_Giardia_duodenalis_strain_WB_C6_tig00000033__whole_genome_shotgun_sequence]
+	Loaded [AACB03000020.1_Giardia_duodenalis_strain_WB_C6_tig00000034__whole_genome_shotgun_sequence]
+	Loaded [AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence]
+	Loaded [AACB03000022.1_Giardia_duodenalis_strain_WB_C6_tig00000037__whole_genome_shotgun_sequence]
+	Loaded [AACB03000023.1_Giardia_duodenalis_strain_WB_C6_tig00000038__whole_genome_shotgun_sequence]
+	Loaded [AACB03000024.1_Giardia_duodenalis_strain_WB_C6_tig00000040__whole_genome_shotgun_sequence]
+	Loaded [AACB03000025.1_Giardia_duodenalis_strain_WB_C6_tig00000042__whole_genome_shotgun_sequence]
+	Loaded [AACB03000026.1_Giardia_duodenalis_strain_WB_C6_tig00000046__whole_genome_shotgun_sequence]
+	Loaded [AACB03000027.1_Giardia_duodenalis_strain_WB_C6_tig00000047__whole_genome_shotgun_sequence]
+	Loaded [AACB03000028.1_Giardia_duodenalis_strain_WB_C6_tig00000161__whole_genome_shotgun_sequence]
+	Loaded [AACB03000029.1_Giardia_duodenalis_strain_WB_C6_tig00000162__whole_genome_shotgun_sequence]
+	Loaded [AACB03000030.1_Giardia_duodenalis_strain_WB_C6_tig00000164__whole_genome_shotgun_sequence]
+	Loaded [AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence]
+	Loaded [AACB03000032.1_Giardia_duodenalis_strain_WB_C6_tig00000166__whole_genome_shotgun_sequence]
+	Loaded [AACB03000033.1_Giardia_duodenalis_strain_WB_C6_tig00000167__whole_genome_shotgun_sequence]
+	Loaded [AACB03000034.1_Giardia_duodenalis_strain_WB_C6_tig00000168__whole_genome_shotgun_sequence]
+	Loaded [AACB03000035.1_Giardia_duodenalis_strain_WB_C6_tig00000170__whole_genome_shotgun_sequence]
+	Total Regions: 35
+	Total Region Length: 12078186
+Analyzing contigs...
+CONTIG: contig_10 (1157420bp)
+Best alignment score: 567421.9 (LEN: 568616, IDY: 99.79), Total number of alignments: 15
+			Looking for the best set of alignments (out of 15 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1078844 1080558 | 693495 691785 | 1715 1711 | 99.53 | CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence contig_10
+		Skipping redundant alignment 1 10259 | 1139845 1129678 | 10259 10168 | 97.87 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_10
+		Skipping redundant alignment 5838 16292 | 1139965 1129609 | 10455 10357 | 97.82 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_10
+		Skipping redundant alignment 1 10473 | 1141115 1130748 | 10473 10368 | 97.59 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_10
+		Skipping redundant alignment 1 10259 | 1145404 1135189 | 10259 10216 | 95.68 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_10
+		Skipping redundant alignment 5842 16282 | 1145521 1135130 | 10441 10392 | 95.62 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_10
+		Skipping redundant alignment 1 5839 | 1139965 1145806 | 5839 5842 | 96.27 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_10
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 1142195.6, number of alignments: 8, unaligned bases: 9512
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 1147908 out of 1157420 non-N bases (99.18%))
+			Excluding internal overlap of size 5324 between Alignment 1 and 2: 906371 1036911 | 563293 693686 | 130541 130394 --> 911784 1036911 | 568617 693686 | 125128 125070
+			Real Alignment 1: 341905 911543 | 1 568616 | 569639 568616 | 99.79 | CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence contig_10
+			  Gap between these two alignments (local misassembly). Inconsistency = 240
+			Excluding internal overlap of size 6984 between Alignment 2 and 3: 1038755 1085650 | 733497 686703 | 46896 46795 --> 1038755 1078652 | 733497 693687 | 39898 39811
+			Real Alignment 2: 911784 1036911 | 568617 693686 | 125128 125070 | 99.61 | CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence contig_10
+			  Extensive misassembly (relocation, inconsistency = 1843) between these two alignments
+			Excluding internal overlap of size 3211 between Alignment 3 and 4: 1029924 1041402 | 741725 730287 | 11479 11439 --> 1029924 1038166 | 741725 733498 | 8243 8228
+			Real Alignment 3: 1038755 1078652 | 733497 693687 | 39898 39811 | 99.75 | CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence contig_10
+			  Gap between these two alignments (local misassembly). Inconsistency = 588
+			Excluding internal overlap of size 6974 between Alignment 4 and 5: 1029924 1038166 | 741725 733498 | 8243 8228 --> 1036912 1038166 | 734751 733498 | 1255 1254
+			Real Alignment 4: 1036912 1038166 | 734751 733498 | 1255 1254 | 99.03 | CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence contig_10
+			  Extensive misassembly (relocation, inconsistency = 40486) between these two alignments
+			Excluding internal overlap of size 953 between Alignment 5 and 6: 1473091 1485414 | 1124649 1136911 | 12324 12263 --> 1474041 1485414 | 1125602 1136911 | 11374 11310
+			Real Alignment 5: 1078653 1470164 | 734752 1125601 | 391512 390850 | 99.79 | CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence contig_10
+			  Extensive misassembly (relocation, inconsistency = 3876) between these two alignments
+			Excluding internal overlap of size 649 between Alignment 6 and 7: 1 10470 | 1146695 1136263 | 10470 10433 --> 1 9807 | 1146695 1136912 | 9807 9784
+			Real Alignment 6: 1474041 1485414 | 1125602 1136911 | 11374 11310 | 99.11 | CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence contig_10
+			  Extensive misassembly (translocation) between these two alignments
+			Excluding internal overlap of size 6058 between Alignment 7 and 8: 1478065 1485351 | 1140638 1147908 | 7287 7271 --> 1484110 1485351 | 1146696 1147908 | 1242 1213
+			Real Alignment 7: 1 9807 | 1146695 1136912 | 9807 9784 | 96.48 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_10
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 8: 1484110 1485351 | 1146696 1147908 | 1242 1213 | 95.06 | CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence contig_10
+		Unaligned bases: 9512
+
+CONTIG: contig_11 (96841bp)
+Best alignment score: 85716.0 (LEN: 85905, IDY: 99.78), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 95844.9, number of alignments: 2, unaligned bases: 245
+		This contig is misassembled.
+			Real Alignment 1: 4602 90657 | 85905 1 | 86056 85905 | 99.78 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_11
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 2: 4060 14735 | 96726 86036 | 10676 10691 | 97.09 | AACB03000007.1_Giardia_duodenalis_strain_WB_C6_tig00000004__whole_genome_shotgun_sequence contig_11
+
+CONTIG: contig_12 (3237bp)
+Best alignment score: 3222.1 (LEN: 3237, IDY: 99.54), Total number of alignments: 1
+		One align captures most of this contig: 1078269 1081518 | 3237 1 | 3250 3237 | 99.54 | CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence contig_12
+
+CONTIG: contig_17 (28075bp)
+Best alignment score: 9949.6 (LEN: 10269, IDY: 96.89), Total number of alignments: 15
+			Looking for the best set of alignments (out of 15 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1 6471 | 6364 4 | 6471 6361 | 97.07 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_17
+		Skipping redundant alignment 5838 12427 | 6482 4 | 6590 6479 | 96.85 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_17
+		Skipping redundant alignment 1 10259 | 11831 1739 | 10259 10093 | 97.0 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_17
+		Skipping redundant alignment 5838 16282 | 11949 1681 | 10445 10269 | 96.89 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_17
+		Skipping redundant alignment 1 10473 | 13075 2802 | 10473 10274 | 96.73 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_17
+		Skipping redundant alignment 1 10259 | 17293 7201 | 10259 10093 | 96.94 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_17
+		Skipping redundant alignment 5838 16282 | 17411 7142 | 10445 10270 | 96.81 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_17
+		Skipping redundant alignment 1 10259 | 22751 12663 | 10259 10089 | 96.82 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_17
+		Skipping redundant alignment 5838 16282 | 22869 12605 | 10445 10265 | 96.69 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_17
+		Skipping redundant alignment 1 10473 | 24007 13727 | 10473 10281 | 96.69 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_17
+		Skipping redundant alignment 1420 10473 | 28075 19197 | 9054 8879 | 96.7 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_17
+		Skipping redundant alignment 6097 16282 | 28075 18070 | 10186 10006 | 96.86 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_17
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 25840.4, number of alignments: 3, unaligned bases: 658
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 27417 out of 28075 non-N bases (97.66%))
+			Real Alignment 1: 1 7751 | 7616 4 | 7751 7613 | 96.95 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_17
+			  Extensive misassembly (relocation, inconsistency = -10470 [linear representation of circular genome]) between these two alignments
+			Excluding internal overlap of size 415 between Alignment 2 and 3: 140 10259 | 28075 18128 | 10120 9948 --> 140 9839 | 28075 18543 | 9700 9533
+			Real Alignment 2: 1 10470 | 18542 8272 | 10470 10271 | 96.64 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_17
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 3: 140 9839 | 28075 18543 | 9700 9533 | 96.96 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_17
+		Unaligned bases: 658
+
+CONTIG: contig_28 (181541bp)
+Best alignment score: 181141.6 (LEN: 181541, IDY: 99.78), Total number of alignments: 1
+		One align captures most of this contig: 2123481 2305371 | 1 181541 | 181891 181541 | 99.78 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_28
+
+CONTIG: contig_29 (1760bp)
+Best alignment score: 1753.0 (LEN: 1760, IDY: 99.60), Total number of alignments: 1
+		One align captures most of this contig: 2121681 2123441 | 1 1760 | 1761 1760 | 99.6 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_29
+
+CONTIG: contig_30 (3066bp)
+Best alignment score: 3061.1 (LEN: 3066, IDY: 99.84), Total number of alignments: 7
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1765458 1768259 | 3066 270 | 2802 2797 | 99.82 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_30
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1763154 1766224 | 3066 1 | 3071 3066 | 99.84 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_30
+			Skipping alignment 1760850 1763920 | 3066 1 | 3071 3066 | 99.84 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_30
+			Skipping alignment 1762386 1765456 | 3066 1 | 3071 3066 | 99.84 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_30
+			Skipping alignment 1761618 1764688 | 3066 1 | 3071 3066 | 99.84 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_30
+			Skipping alignment 1764690 1767760 | 3066 1 | 3071 3066 | 99.84 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_30
+			Skipping alignment 1763922 1766992 | 3066 1 | 3071 3066 | 99.84 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_30
+
+CONTIG: contig_31 (567042bp)
+Best alignment score: 276867.7 (LEN: 277868, IDY: 99.64), Total number of alignments: 11
+			Looking for the best set of alignments (out of 11 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 10259 17561 | 562936 555590 | 7303 7347 | 97.15 | AACB03000006.1_Giardia_duodenalis_strain_WB_C6_tig00000001__whole_genome_shotgun_sequence contig_31
+		Skipping redundant alignment 4220 6652 | 567042 564606 | 2433 2437 | 98.77 | AACB03000007.1_Giardia_duodenalis_strain_WB_C6_tig00000004__whole_genome_shotgun_sequence contig_31
+		Skipping redundant alignment 18824 22402 | 542233 538660 | 3579 3574 | 95.71 | AACB03000007.1_Giardia_duodenalis_strain_WB_C6_tig00000004__whole_genome_shotgun_sequence contig_31
+		Skipping redundant alignment 8942 10523 | 543553 541958 | 1582 1596 | 97.31 | AACB03000029.1_Giardia_duodenalis_strain_WB_C6_tig00000162__whole_genome_shotgun_sequence contig_31
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 561583.9, number of alignments: 7, unaligned bases: 1504
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 565538 out of 567042 non-N bases (99.73%))
+			Excluding internal overlap of size 2428 between Alignment 1 and 2: 1157484 1231833 | 74243 1 | 74350 74243 --> 1159912 1231833 | 71815 1 | 71922 71815
+			Real Alignment 1: 1159912 1231833 | 71815 1 | 71922 71815 | 99.83 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_31
+			  Gap between these two alignments (local misassembly). Inconsistency = 225
+			Real Alignment 2: 881598 1159686 | 349683 71816 | 278089 277868 | 99.64 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_31
+			  Extensive misassembly (relocation, inconsistency = -1748) between these two alignments
+			Excluding internal overlap of size 3710 between Alignment 3 and 4: 7302 15388 | 533571 541704 | 8087 8134 --> 10985 15388 | 537281 541704 | 4404 4424
+			Real Alignment 3: 695402 882276 | 537280 350753 | 186875 186528 | 99.72 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_31
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 4: 10985 15388 | 537281 541704 | 4404 4424 | 98.34 | AACB03000028.1_Giardia_duodenalis_strain_WB_C6_tig00000161__whole_genome_shotgun_sequence contig_31
+			  Extensive misassembly (translocation) between these two alignments
+			Excluding internal overlap of size 7718 between Alignment 5 and 6: 1 10503 | 561916 551416 | 10503 10501 --> 1 2786 | 561916 559134 | 2786 2783
+			Real Alignment 5: 1 17031 | 542140 559133 | 17031 16994 | 99.58 | AACB03000033.1_Giardia_duodenalis_strain_WB_C6_tig00000167__whole_genome_shotgun_sequence contig_31
+			  Extensive misassembly (translocation) between these two alignments
+			Excluding internal overlap of size 1123 between Alignment 6 and 7: 1 2786 | 561916 559134 | 2786 2783 --> 1125 2786 | 560793 559134 | 1662 1660
+			Real Alignment 6: 1125 2786 | 560793 559134 | 1662 1660 | 98.61 | AACB03000006.1_Giardia_duodenalis_strain_WB_C6_tig00000001__whole_genome_shotgun_sequence contig_31
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 7: 1751 8012 | 560794 567042 | 6262 6249 | 98.52 | AACB03000033.1_Giardia_duodenalis_strain_WB_C6_tig00000167__whole_genome_shotgun_sequence contig_31
+		Unaligned bases: 1504
+
+CONTIG: contig_34 (1827bp)
+Best alignment score: 1819.0 (LEN: 1827, IDY: 99.56), Total number of alignments: 5
+		This contig has 5 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 932678 934511 | 1827 1 | 1834 1827 | 99.56 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_34
+			Skipping alignment 934513 936346 | 1827 1 | 1834 1827 | 99.35 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_34
+			Skipping alignment 930843 932676 | 1827 1 | 1834 1827 | 99.35 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_34
+			Skipping alignment 929008 930841 | 1827 1 | 1834 1827 | 99.18 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_34
+			Skipping alignment 927173 929006 | 1827 1 | 1834 1827 | 99.13 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_34
+
+CONTIG: contig_4 (342250bp)
+Best alignment score: 339813.0 (LEN: 340494, IDY: 99.80), Total number of alignments: 10
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4008111 4012636 | 4504 1 | 4526 4504 | 99.14 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_4
+			Skipping alignment 10778 15303 | 4504 1 | 4526 4504 | 99.12 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_4
+			Skipping alignment 11803 16328 | 1 4504 | 4526 4504 | 99.12 | AACB03000010.1_Giardia_duodenalis_strain_WB_C6_tig00000011__whole_genome_shotgun_sequence contig_4
+			Skipping alignment 5303 9828 | 4504 1 | 4526 4504 | 99.12 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_4
+			Skipping alignment 1532562 1537085 | 4502 1 | 4524 4502 | 99.14 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_4
+			Skipping alignment 6327 10848 | 1 4500 | 4522 4500 | 99.12 | AACB03000010.1_Giardia_duodenalis_strain_WB_C6_tig00000011__whole_genome_shotgun_sequence contig_4
+			Skipping alignment 4013591 4018107 | 4500 1 | 4517 4500 | 99.01 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_4
+			Skipping alignment 16258 20730 | 4500 1 | 4473 4500 | 97.86 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_4
+			Skipping alignment 18 4354 | 4358 1 | 4337 4358 | 98.51 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_4
+		One align captures most of this contig: 810 341904 | 1757 342250 | 341095 340494 | 99.8 | CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence contig_4
+
+CONTIG: contig_46 (2101bp)
+Best alignment score: 2059.2 (LEN: 2101, IDY: 98.01), Total number of alignments: 9
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 10492 12540 | 2101 52 | 2049 2050 | 98.54 | AACB03000006.1_Giardia_duodenalis_strain_WB_C6_tig00000001__whole_genome_shotgun_sequence contig_46
+			Skipping alignment 9154 11205 | 52 2101 | 2052 2050 | 98.35 | AACB03000008.1_Giardia_duodenalis_strain_WB_C6_tig00000005__whole_genome_shotgun_sequence contig_46
+			Skipping alignment 1751 3646 | 209 2101 | 1896 1893 | 98.26 | AACB03000033.1_Giardia_duodenalis_strain_WB_C6_tig00000167__whole_genome_shotgun_sequence contig_46
+			Skipping alignment 8460 10355 | 2101 209 | 1896 1893 | 98.21 | AACB03000007.1_Giardia_duodenalis_strain_WB_C6_tig00000004__whole_genome_shotgun_sequence contig_46
+			Skipping alignment 604626 606510 | 2101 209 | 1885 1893 | 98.11 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_46
+			Skipping alignment 2271 4126 | 1872 19 | 1856 1854 | 97.48 | AACB03000035.1_Giardia_duodenalis_strain_WB_C6_tig00000170__whole_genome_shotgun_sequence contig_46
+			Skipping alignment 2838 4690 | 1871 19 | 1853 1853 | 97.48 | AACB03000030.1_Giardia_duodenalis_strain_WB_C6_tig00000164__whole_genome_shotgun_sequence contig_46
+			Skipping alignment 17420 19263 | 1871 30 | 1844 1842 | 97.46 | AACB03000007.1_Giardia_duodenalis_strain_WB_C6_tig00000004__whole_genome_shotgun_sequence contig_46
+		One align captures most of this contig: 6819 8921 | 2101 1 | 2103 2101 | 98.01 | AACB03000029.1_Giardia_duodenalis_strain_WB_C6_tig00000162__whole_genome_shotgun_sequence contig_46
+
+CONTIG: contig_48 (296898bp)
+Best alignment score: 135872.1 (LEN: 136199, IDY: 99.76), Total number of alignments: 16
+			Looking for the best set of alignments (out of 16 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 8223 10259 | 254540 252535 | 2037 2006 | 96.02 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_48
+		Skipping redundant alignment 14180 16444 | 254540 252314 | 2265 2227 | 95.81 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_48
+		Skipping redundant alignment 8617 14049 | 259869 254541 | 5433 5329 | 97.2 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_48
+		Skipping redundant alignment 2661 8093 | 259869 254541 | 5433 5329 | 97.2 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_48
+		Skipping redundant alignment 1 2528 | 262360 259870 | 2528 2491 | 97.63 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_48
+		Skipping redundant alignment 5844 8484 | 262471 259870 | 2641 2602 | 97.5 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_48
+		Skipping redundant alignment 1 10259 | 267825 257866 | 10259 9960 | 95.63 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_48
+		Skipping redundant alignment 5838 16282 | 267943 257807 | 10445 10137 | 95.61 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_48
+		Skipping redundant alignment 1 10469 | 269095 258930 | 10469 10166 | 95.49 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_48
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 266911.1, number of alignments: 7, unaligned bases: 26479
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 270419 out of 296898 non-N bases (91.08%))
+			Excluding internal overlap of size 98 between Alignment 1 and 2: 597556 599467 | 1902 1 | 1912 1902 --> 597655 599467 | 1804 1 | 1813 1804
+			Real Alignment 1: 597655 599467 | 1804 1 | 1813 1804 | 99.48 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_48
+			  Extensive misassembly (relocation, inconsistency = 3114) between these two alignments
+			Excluding internal overlap of size 15329 between Alignment 2 and 3: 391906 473439 | 122675 204060 | 81534 81386 --> 407268 473439 | 138004 204060 | 66172 66057
+			Real Alignment 2: 458096 594540 | 138003 1805 | 136445 136199 | 99.76 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_48
+			  Extensive misassembly (relocation, inconsistency = -15344) between these two alignments
+			Excluding internal overlap of size 15343 between Alignment 3 and 4: 407268 473439 | 138004 204060 | 66172 66057 --> 407268 458095 | 138004 188717 | 50828 50714
+			Real Alignment 3: 407268 458095 | 138004 188717 | 50828 50714 | 99.61 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_48
+			  Extensive misassembly (inversion) between these two alignments
+			Excluding internal overlap of size 1378 between Alignment 4 and 5: 3942 9373 | 259869 254541 | 5432 5329 --> 3942 7973 | 259869 255919 | 4032 3951
+			Real Alignment 4: 339889 407267 | 255918 188718 | 67379 67201 | 99.68 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_48
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 5: 3942 7973 | 259869 255919 | 4032 3951 | 97.16 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_48
+			  Indel (> 5bp) between these two alignments: deletion of length 131; 0 mismatches (number of Ns: 0)
+			Excluding internal overlap of size 480 between Alignment 6 and 7: 1 3810 | 263625 259870 | 3810 3756 --> 481 3810 | 263145 259870 | 3330 3276
+			Real Alignment 6: 481 3810 | 263145 259870 | 3330 3276 | 97.77 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_48
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 7: 1478065 1485414 | 263146 270419 | 7350 7274 | 96.06 | CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence contig_48
+		Unaligned bases: 26479
+
+CONTIG: contig_5 (1729116bp)
+Best alignment score: 1414050.7 (LEN: 1417879, IDY: 99.73), Total number of alignments: 8
+			Looking for the best set of alignments (out of 8 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 5590 22361 | 16779 1 | 16772 16779 | 98.57 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_5
+		Skipping redundant alignment 6 11549 | 30484 18970 | 11544 11515 | 99.02 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_5
+		Skipping redundant alignment 5303 17025 | 30619 18970 | 11723 11650 | 99.31 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_5
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 1722695.6, number of alignments: 5, unaligned bases: 42
+		This contig is misassembled.
+			Real Alignment 1: 153 16999 | 16779 1 | 16847 16779 | 99.03 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_5
+			  Extensive misassembly (translocation) between these two alignments
+			Excluding internal overlap of size 10393 between Alignment 2 and 3: 2430 16331 | 16822 30622 | 13902 13801 --> 2430 5881 | 16822 20229 | 3452 3408
+			Real Alignment 2: 2430 5881 | 16822 20229 | 3452 3408 | 99.16 | AACB03000010.1_Giardia_duodenalis_strain_WB_C6_tig00000011__whole_genome_shotgun_sequence contig_5
+			  Extensive misassembly (translocation) between these two alignments
+			Excluding internal overlap of size 9328 between Alignment 3 and 4: 2586260 2608368 | 1428781 1450859 | 22109 22079 --> 2595596 2608368 | 1438109 1450859 | 12773 12751
+			Real Alignment 3: 2599032 4018548 | 1438108 20230 | 1419517 1417879 | 99.73 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_5
+			  Extensive misassembly (relocation, inconsistency = -9337) between these two alignments
+			Excluding internal overlap of size 9320 between Alignment 4 and 5: 2595596 2608368 | 1438109 1450859 | 12773 12751 --> 2595596 2599031 | 1438109 1441539 | 3436 3431
+			Real Alignment 4: 2595596 2599031 | 1438109 1441539 | 3436 3431 | 99.8 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_5
+			  Extensive misassembly (inversion) between these two alignments
+			Real Alignment 5: 2307514 2595595 | 1729116 1441540 | 288082 287577 | 99.79 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_5
+
+CONTIG: contig_53 (33526bp)
+Best alignment score: 29828.0 (LEN: 30008, IDY: 99.40), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 5285 9131 | 26774 30603 | 3847 3830 | 98.86 | AACB03000028.1_Giardia_duodenalis_strain_WB_C6_tig00000161__whole_genome_shotgun_sequence contig_53
+		Skipping redundant alignment 9888 13451 | 30769 27217 | 3564 3553 | 96.96 | AACB03000007.1_Giardia_duodenalis_strain_WB_C6_tig00000004__whole_genome_shotgun_sequence contig_53
+		Skipping redundant alignment 599485 602735 | 33526 30279 | 3251 3248 | 98.68 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_53
+		Skipping redundant alignment 11167 14436 | 30279 33526 | 3270 3248 | 97.38 | AACB03000008.1_Giardia_duodenalis_strain_WB_C6_tig00000005__whole_genome_shotgun_sequence contig_53
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 32805.1, number of alignments: 2, unaligned bases: 270
+		This contig is misassembled.
+			Real Alignment 1: 1 30063 | 30008 1 | 30063 30008 | 99.4 | AACB03000007.1_Giardia_duodenalis_strain_WB_C6_tig00000004__whole_genome_shotgun_sequence contig_53
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 2: 10719 13963 | 30279 33526 | 3245 3248 | 99.39 | AACB03000028.1_Giardia_duodenalis_strain_WB_C6_tig00000161__whole_genome_shotgun_sequence contig_53
+
+CONTIG: contig_58 (28435bp)
+Best alignment score: 9855.6 (LEN: 10246, IDY: 96.19), Total number of alignments: 16
+			Looking for the best set of alignments (out of 16 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1 9185 | 8975 1 | 9185 8975 | 95.99 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_58
+		Skipping redundant alignment 5838 15146 | 9094 1 | 9309 9094 | 95.89 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_58
+		Skipping redundant alignment 1 10259 | 14408 4382 | 10259 10027 | 95.73 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_58
+		Skipping redundant alignment 5838 16282 | 14525 4323 | 10445 10203 | 95.66 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_58
+		Skipping redundant alignment 1 10457 | 15673 5459 | 10457 10215 | 95.86 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_58
+		Skipping redundant alignment 1 10259 | 19858 9819 | 10259 10040 | 96.09 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_58
+		Skipping redundant alignment 5838 16282 | 19978 9760 | 10445 10219 | 96.01 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_58
+		Skipping redundant alignment 1 10259 | 25299 15252 | 10259 10048 | 95.99 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_58
+		Skipping redundant alignment 5838 16282 | 25417 15193 | 10445 10225 | 95.91 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_58
+		Skipping redundant alignment 2 10469 | 26560 16314 | 10468 10247 | 96.09 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_58
+		Skipping redundant alignment 1478065 1485414 | 20645 27845 | 7350 7201 | 95.8 | CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence contig_58
+		Skipping redundant alignment 3636 10469 | 28434 21768 | 6834 6667 | 95.65 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_58
+		Skipping redundant alignment 8310 16282 | 28434 20645 | 7973 7790 | 95.8 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_58
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 25983.8, number of alignments: 3, unaligned bases: 640
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 27795 out of 28435 non-N bases (97.75%))
+			Real Alignment 1: 1 10473 | 10240 1 | 10473 10240 | 96.05 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_58
+			  Extensive misassembly (relocation, inconsistency = -10470 [linear representation of circular genome]) between these two alignments
+			Excluding internal overlap of size 422 between Alignment 2 and 3: 2354 10259 | 28434 20704 | 7906 7731 --> 2354 9839 | 28434 21126 | 7486 7309
+			Real Alignment 2: 1 10470 | 21125 10880 | 10470 10246 | 96.19 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_58
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 3: 2354 9839 | 28434 21126 | 7486 7309 | 95.85 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_58
+		Unaligned bases: 640
+
+CONTIG: contig_59 (1897bp)
+Best alignment score: 1888.1 (LEN: 1897, IDY: 99.53), Total number of alignments: 4
+		This contig has 4 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1470703 1472603 | 1 1897 | 1901 1897 | 99.53 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_59
+			Skipping alignment 1469752 1471652 | 1 1897 | 1901 1897 | 99.53 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_59
+			Skipping alignment 1471654 1473554 | 1 1897 | 1901 1897 | 99.53 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_59
+			Skipping alignment 1468801 1470701 | 1 1897 | 1901 1897 | 99.53 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_59
+
+CONTIG: contig_6 (1551782bp)
+Best alignment score: 769172.8 (LEN: 770946, IDY: 99.77), Total number of alignments: 9
+			Looking for the best set of alignments (out of 9 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 10906 16329 | 704 6141 | 5424 5438 | 95.22 | AACB03000010.1_Giardia_duodenalis_strain_WB_C6_tig00000011__whole_genome_shotgun_sequence contig_6
+		Skipping redundant alignment 4605 16326 | 5381 17045 | 11722 11665 | 98.92 | AACB03000010.1_Giardia_duodenalis_strain_WB_C6_tig00000011__whole_genome_shotgun_sequence contig_6
+		Skipping redundant alignment 10780 24838 | 17045 2910 | 14059 14136 | 98.02 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_6
+		Skipping redundant alignment 5305 21051 | 17045 1270 | 15747 15776 | 97.46 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_6
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 1536154.7, number of alignments: 5, unaligned bases: 10456
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 1541326 out of 1551782 non-N bases (99.33%))
+			Excluding internal overlap of size 6804 between Alignment 1 and 2: 6 16199 | 16913 704 | 16194 16210 --> 6803 16199 | 10109 704 | 9397 9406
+			Real Alignment 1: 6803 16199 | 10109 704 | 9397 9406 | 96.73 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_6
+			  Extensive misassembly (translocation) between these two alignments
+			Excluding internal overlap of size 2063 between Alignment 2 and 3: 1353486 1539535 | 195690 10110 | 186050 185581 --> 1355549 1539535 | 193627 10110 | 183987 183518
+			Real Alignment 2: 1355549 1539535 | 193627 10110 | 183987 183518 | 99.7 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_6
+			  Gap between these two alignments (local misassembly). Inconsistency = 225
+			Excluding internal overlap of size 2316 between Alignment 3 and 4: 9414 585882 | 1537684 962258 | 576469 575427 --> 9414 583565 | 1537684 964574 | 574152 573111
+			Real Alignment 3: 582819 1355323 | 964573 193628 | 772505 770946 | 99.77 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_6
+			  Overlap between these two alignments (local misassembly). Inconsistency = -747
+			Real Alignment 4: 9414 583565 | 1537684 964574 | 574152 573111 | 99.74 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_6
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 5: 1 4392 | 1542370 1538026 | 4392 4345 | 95.33 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_6
+		Unaligned bases: 10456
+
+CONTIG: contig_63 (3092bp)
+Best alignment score: 3086.1 (LEN: 3092, IDY: 99.81), Total number of alignments: 1
+		One align captures most of this contig: 1843490 1846587 | 3092 1 | 3098 3092 | 99.81 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_63
+
+CONTIG: contig_65 (7339bp)
+Best alignment score: 7283.2 (LEN: 7339, IDY: 99.24), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1592106 1599423 | 7303 1 | 7318 7303 | 97.86 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_65
+		One align captures most of this contig: 1599425 1606785 | 7339 1 | 7361 7339 | 99.24 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_65
+
+CONTIG: contig_67 (2045bp)
+Best alignment score: 2040.9 (LEN: 2045, IDY: 99.80), Total number of alignments: 1
+		One align captures most of this contig: 2305415 2307463 | 2045 1 | 2049 2045 | 99.8 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_67
+
+CONTIG: contig_68 (3235bp)
+Best alignment score: 3226.9 (LEN: 3235, IDY: 99.75), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 2247326 2250564 | 1 3235 | 3239 3235 | 99.75 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_68
+			Skipping alignment 2293653 2296891 | 3235 1 | 3239 3235 | 99.75 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_68
+
+CONTIG: contig_7 (2672911bp)
+Best alignment score: 741904.2 (LEN: 745183, IDY: 99.56), Total number of alignments: 19
+			Looking for the best set of alignments (out of 19 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 498842 529889 | 435071 404080 | 31048 30992 | 99.76 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+		Skipping redundant alignment 1 2680 | 876387 879060 | 2680 2674 | 99.4 | AACB03000026.1_Giardia_duodenalis_strain_WB_C6_tig00000046__whole_genome_shotgun_sequence contig_7
+		Skipping redundant alignment 1477974 1485414 | 2662113 2669528 | 7441 7416 | 96.84 | CM018789.1_Giardia_intestinalis_strain_WB_C6_chromosome_1__whole_genome_shotgun_sequence contig_7
+		Skipping redundant alignment 951 10259 | 2671640 2662266 | 9309 9375 | 95.07 | AACB03000031.1_Giardia_duodenalis_strain_WB_C6_tig00000165__whole_genome_shotgun_sequence contig_7
+		Skipping redundant alignment 2049 10470 | 2671837 2663339 | 8422 8499 | 95.78 | AACB03000009.1_Giardia_duodenalis_strain_WB_C6_tig00000008__whole_genome_shotgun_sequence contig_7
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 2657949.0, number of alignments: 14, unaligned bases: 3108
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 2669803 out of 2672911 non-N bases (99.88%))
+			Real Alignment 1: 94113 513498 | 1 418707 | 419386 418707 | 99.82 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+			  Extensive misassembly (inversion) between these two alignments
+			Real Alignment 2: 513565 515167 | 420373 418773 | 1603 1601 | 99.88 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+			  Extensive misassembly (inversion) between these two alignments
+			Excluding internal overlap of size 5543 between Alignment 3 and 4: 854826 925649 | 759296 829968 | 70824 70673 --> 860367 925649 | 764839 829968 | 65283 65130
+			Real Alignment 3: 515168 860144 | 420375 764838 | 344977 344464 | 99.83 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+			  Gap between these two alignments (local misassembly). Inconsistency = 222
+			Excluding internal overlap of size 2671 between Alignment 4 and 5: 923185 974725 | 827298 878760 | 51541 51463 --> 925872 974725 | 829969 878760 | 48854 48792
+			Real Alignment 4: 860367 925649 | 764839 829968 | 65283 65130 | 99.77 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+			  Gap between these two alignments (local misassembly). Inconsistency = 222
+			Excluding internal overlap of size 1211 between Alignment 5 and 6: 925872 974725 | 829969 878760 | 48854 48792 --> 925872 973512 | 829969 877549 | 47641 47581
+			Real Alignment 5: 925872 973512 | 829969 877549 | 47641 47581 | 99.81 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+			  Overlap between these two alignments (local misassembly). Inconsistency = -303
+			Excluding internal overlap of size 3149 between Alignment 6 and 7: 973210 1102251 | 877550 1006348 | 129042 128799 --> 973210 1099083 | 877550 1003199 | 125874 125650
+			Real Alignment 6: 973210 1099083 | 877550 1003199 | 125874 125650 | 99.79 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+			  Gap between these two alignments (local misassembly). Inconsistency = 444
+			Excluding internal overlap of size 1128 between Alignment 7 and 8: 1099528 1374641 | 1003200 1277803 | 275114 274604 --> 1099528 1373510 | 1003200 1276675 | 273983 273476
+			Real Alignment 7: 1099528 1373510 | 1003200 1276675 | 273983 273476 | 99.8 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+			  Gap between these two alignments (local misassembly). Inconsistency = 225
+			Excluding internal overlap of size 3647 between Alignment 8 and 9: 1673848 1743324 | 1575842 1646882 | 69477 71041 --> 1677503 1743324 | 1579489 1646882 | 65822 67394
+			Real Alignment 8: 1373736 1676986 | 1276676 1579488 | 303251 302813 | 99.69 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+			  Gap between these two alignments (local misassembly). Inconsistency = 516
+			Real Alignment 9: 1677503 1743324 | 1579489 1646882 | 65822 67394 | 96.99 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+			  Extensive misassembly (relocation, inconsistency = 852237) between these two alignments
+			Real Alignment 10: 2596405 2596786 | 1648106 1647726 | 382 381 | 97.91 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+			  Extensive misassembly (relocation, inconsistency = 752585) between these two alignments
+			Excluding internal overlap of size 115 between Alignment 11 and 12: 1741118 1843489 | 1648437 1750622 | 102372 102186 --> 1741118 1843371 | 1648437 1750507 | 102254 102071
+			Real Alignment 11: 1741118 1843371 | 1648437 1750507 | 102254 102071 | 99.79 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+			  Extensive misassembly (relocation, inconsistency = 1854) between these two alignments
+			Real Alignment 12: 1845226 2590024 | 1750508 2495690 | 744799 745183 | 99.56 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+			  Gap between these two alignments (local misassembly). Inconsistency = -80
+			Excluding internal overlap of size 4571 between Alignment 13 and 14: 6723 16429 | 2671837 2662054 | 9707 9784 --> 6723 11819 | 2671837 2666625 | 5097 5213
+			Real Alignment 13: 2590740 2760984 | 2496486 2666624 | 170245 170139 | 99.59 | CM018792.1_Giardia_intestinalis_strain_WB_C6_chromosome_4__whole_genome_shotgun_sequence contig_7
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 14: 6723 11819 | 2671837 2666625 | 5097 5213 | 96.13 | CM018790.1_Giardia_intestinalis_strain_WB_C6_chromosome_2__whole_genome_shotgun_sequence contig_7
+		Unaligned bases: 3108
+
+CONTIG: contig_8 (1992448bp)
+Best alignment score: 1172305.3 (LEN: 1177368, IDY: 99.57), Total number of alignments: 191
+			Too much alignments (191), will use speed up heuristics
+			Found 8 solid alignments:
+		Solid alignment 1862751 1970978 | 108051 2 | 108228 108050 | 99.58 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Solid alignment 675085 1857231 | 1287178 109811 | 1182147 1177368 | 99.57 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Solid alignment 613033 679576 | 1348234 1281917 | 66544 66318 | 99.6 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Solid alignment 447750 614838 | 1514197 1347344 | 167089 166854 | 99.79 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Solid alignment 405122 448090 | 1570229 1527253 | 42969 42977 | 99.27 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Solid alignment 23120 395589 | 1950863 1578419 | 372470 372445 | 99.59 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Solid alignment 4868 23385 | 1969243 1950851 | 18518 18393 | 98.41 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Solid alignment 4868 23217 | 1987349 1969147 | 18350 18203 | 97.49 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+			Skipping alignments located inside solid regions since they are redundant:
+		Skipping redundant alignment 613033 614838 | 1348462 1346662 | 1806 1801 | 99.72 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 613033 614838 | 1348690 1346889 | 1806 1802 | 99.78 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 613033 614838 | 1348917 1347117 | 1806 1801 | 99.72 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 78 143 | 1513827 1513892 | 66 66 | 95.45 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 58 143 | 1513873 1513958 | 86 86 | 98.84 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 174 304 | 1513959 1514090 | 131 132 | 99.24 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 174 381 | 1513893 1514103 | 208 211 | 98.58 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1403 1471 | 1527402 1527334 | 69 69 | 95.65 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7300 7377 | 1527547 1527624 | 78 78 | 100.0 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1 1368 | 1528768 1527403 | 1368 1366 | 99.56 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1 937 | 1567991 1568931 | 937 941 | 99.26 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6798 10211 | 1568943 1565532 | 3414 3412 | 99.85 | AACB03000017.1_Giardia_duodenalis_strain_WB_C6_tig00000025__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1175 1966 | 1568205 1568996 | 792 792 | 95.08 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1189 1811 | 1568932 1569555 | 623 624 | 99.2 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5758 6542 | 1569727 1568944 | 785 784 | 99.87 | AACB03000017.1_Giardia_duodenalis_strain_WB_C6_tig00000025__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1915 2183 | 1569556 1569822 | 269 267 | 99.26 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2018 2846 | 1568997 1569822 | 829 826 | 96.74 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5524 5655 | 1569858 1569728 | 132 131 | 99.24 | AACB03000017.1_Giardia_duodenalis_strain_WB_C6_tig00000025__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2899 3254 | 1569823 1570175 | 356 353 | 98.88 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5437 5579 | 1578423 1578571 | 143 149 | 95.97 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6753 6956 | 1578419 1578621 | 204 203 | 98.53 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5580 5898 | 1578672 1578986 | 319 315 | 95.61 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7966 8256 | 1579623 1579913 | 291 291 | 98.28 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 10355 10607 | 1579787 1580040 | 253 254 | 98.82 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 8305 8786 | 1579914 1580396 | 482 483 | 97.31 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 9032 9663 | 1580541 1581171 | 632 631 | 98.73 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 10355 10706 | 1582026 1582366 | 352 341 | 96.31 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 10740 11194 | 1582367 1582820 | 455 454 | 97.36 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 9029 9601 | 1582317 1582891 | 573 575 | 97.39 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 856 16957 | 1979171 1963189 | 16102 15983 | 96.33 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 4930 7162 | 1987288 1985074 | 2233 2215 | 97.22 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 17176 19409 | 1987288 1985074 | 2234 2215 | 97.18 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+			Looking for the best set of alignments (out of 159 total alignments)
+		Ambiguity for this contig is not checked for speed up (too much alignments and --ambiguity-usage is "one")
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1858332 1858432 | 108746 108646 | 101 101 | 95.05 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1860644 1861160 | 110249 109739 | 517 511 | 96.71 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 305 381 | 1514121 1514198 | 77 78 | 96.15 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 382 543 | 1514132 1514293 | 162 162 | 97.53 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 598 664 | 1514475 1514541 | 67 67 | 98.51 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 665 817 | 1514572 1514728 | 153 157 | 96.82 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 846 1010 | 1514729 1514889 | 165 161 | 96.97 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1218 1343 | 1515184 1515307 | 126 124 | 97.62 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1344 1756 | 1515402 1515816 | 413 415 | 98.55 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1757 2007 | 1515885 1516137 | 251 253 | 98.02 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 13 77 | 1516812 1516877 | 65 66 | 96.97 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 78 381 | 1516908 1517212 | 304 305 | 98.36 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2527 2622 | 1517191 1517287 | 96 97 | 97.94 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2623 2717 | 1517643 1517737 | 95 95 | 100.0 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 382 830 | 1517307 1517758 | 449 452 | 97.57 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2718 2821 | 1518000 1518102 | 104 103 | 99.04 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 4888 5020 | 1518517 1518651 | 133 135 | 98.52 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1 145 | 1518505 1518651 | 145 147 | 97.28 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 146 238 | 1518716 1518808 | 93 93 | 98.92 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 239 381 | 1518839 1518982 | 143 144 | 98.61 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 3282 3485 | 1518972 1519175 | 204 204 | 97.55 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 382 660 | 1519011 1519287 | 279 277 | 97.85 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5021 5694 | 1518716 1519383 | 674 668 | 97.77 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5695 5760 | 1519413 1519477 | 66 65 | 96.97 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5761 5826 | 1519508 1519573 | 66 66 | 100.0 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 3486 3933 | 1519201 1519659 | 448 459 | 95.64 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 661 1012 | 1519318 1519669 | 352 352 | 97.44 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 8945 9022 | 1519806 1519728 | 78 79 | 98.73 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5827 6071 | 1519603 1519848 | 245 246 | 96.75 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6072 6137 | 1519888 1519953 | 66 66 | 100.0 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 3934 4105 | 1519784 1519953 | 172 170 | 97.67 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 8768 8916 | 1519956 1519807 | 149 150 | 98.0 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 4106 4171 | 1519981 1520046 | 66 66 | 98.48 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1013 1343 | 1519728 1520046 | 331 319 | 96.37 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 8690 8767 | 1520061 1519986 | 78 76 | 97.44 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 4172 4250 | 1520077 1520154 | 79 78 | 97.47 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 8478 8689 | 1520300 1520092 | 212 209 | 98.11 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6374 6619 | 1520265 1520518 | 246 254 | 96.06 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1344 1792 | 1520077 1520527 | 449 451 | 98.0 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 4272 4730 | 1520155 1520600 | 459 446 | 95.21 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6620 6706 | 1520558 1520642 | 87 85 | 95.4 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1793 2068 | 1520558 1520830 | 276 273 | 97.83 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6742 7109 | 1520643 1521008 | 368 366 | 97.83 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7139 7204 | 1521009 1521074 | 66 66 | 98.48 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2069 2276 | 1520864 1521074 | 208 211 | 96.68 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7205 7365 | 1521103 1521261 | 161 159 | 96.27 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 4731 5210 | 1520790 1521261 | 480 472 | 97.08 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5211 5468 | 1521291 1521545 | 258 255 | 98.84 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7366 7622 | 1521291 1521545 | 257 255 | 98.83 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7623 7688 | 1521576 1521641 | 66 66 | 98.48 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7719 7943 | 1521642 1521866 | 225 225 | 98.67 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2277 3202 | 1521103 1522016 | 926 914 | 97.41 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5469 5926 | 1521576 1522032 | 458 457 | 99.13 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7974 8184 | 1521867 1522076 | 211 210 | 99.53 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 3300 4395 | 1520999 1522093 | 1096 1095 | 98.08 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 3232 3385 | 1522017 1522169 | 154 153 | 98.05 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 8185 8365 | 1522108 1522289 | 181 182 | 97.8 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 8366 8477 | 1522321 1522432 | 112 112 | 99.11 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6497 6619 | 1522761 1522882 | 123 122 | 98.37 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 4461 5363 | 1522094 1522978 | 903 885 | 97.67 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 3676 4237 | 1522567 1523116 | 562 550 | 96.26 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 4238 4385 | 1523147 1523299 | 148 153 | 95.42 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6620 7122 | 1522922 1523421 | 503 500 | 98.81 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5461 6199 | 1522979 1523717 | 739 739 | 99.19 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 4922 5127 | 1524063 1524266 | 206 204 | 98.54 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7719 7963 | 1524094 1524340 | 245 247 | 98.38 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6377 7287 | 1523718 1524628 | 911 911 | 99.01 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5128 5299 | 1524465 1524635 | 172 171 | 97.67 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 8040 8298 | 1524481 1524746 | 259 266 | 96.24 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7314 7544 | 1524629 1524859 | 231 231 | 98.27 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5300 5526 | 1524669 1524903 | 227 235 | 95.32 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 8299 8483 | 1524777 1524967 | 185 191 | 95.81 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5527 5745 | 1525129 1525347 | 219 219 | 98.63 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5746 5885 | 1525416 1525555 | 140 140 | 99.29 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6001 6071 | 1525846 1525917 | 71 72 | 98.61 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6072 6194 | 1525955 1526076 | 123 122 | 99.19 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6810 6912 | 1527058 1527158 | 103 101 | 97.09 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1502 1645 | 1527333 1527191 | 144 143 | 98.61 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6913 7270 | 1527188 1527546 | 358 359 | 98.61 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 4351 5225 | 1570787 1569918 | 875 870 | 99.2 | AACB03000017.1_Giardia_duodenalis_strain_WB_C6_tig00000025__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2287 3638 | 1569823 1571166 | 1352 1344 | 97.26 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 212 887 | 1571964 1572641 | 676 678 | 98.23 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 212 1545 | 1571305 1572641 | 1334 1337 | 96.26 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 4919 5111 | 1572540 1572740 | 193 201 | 95.02 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2121 2410 | 1573059 1572769 | 290 291 | 98.28 | AACB03000017.1_Giardia_duodenalis_strain_WB_C6_tig00000025__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 888 1571 | 1572778 1573462 | 684 685 | 96.79 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2082 2219 | 1573360 1573497 | 138 138 | 100.0 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5112 5962 | 1572769 1573614 | 851 846 | 98.94 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1664 2120 | 1573616 1573159 | 457 458 | 99.56 | AACB03000017.1_Giardia_duodenalis_strain_WB_C6_tig00000025__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1572 1724 | 1573513 1573664 | 153 152 | 98.69 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2220 2463 | 1573542 1573789 | 244 248 | 96.37 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1409 1663 | 1573973 1573716 | 255 258 | 98.06 | AACB03000017.1_Giardia_duodenalis_strain_WB_C6_tig00000025__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5963 6370 | 1573714 1574119 | 408 406 | 96.81 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1312 1408 | 1574121 1574024 | 97 98 | 98.98 | AACB03000017.1_Giardia_duodenalis_strain_WB_C6_tig00000025__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2082 2235 | 1574169 1574322 | 154 154 | 98.7 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 1207 1311 | 1574328 1574223 | 105 106 | 97.17 | AACB03000017.1_Giardia_duodenalis_strain_WB_C6_tig00000025__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 6371 6523 | 1574460 1574611 | 153 152 | 99.35 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2236 2770 | 1574460 1574990 | 535 531 | 95.7 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 2771 3034 | 1575091 1575353 | 264 263 | 99.24 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 4 185 | 1575767 1575585 | 182 183 | 97.81 | AACB03000017.1_Giardia_duodenalis_strain_WB_C6_tig00000025__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7110 7365 | 1575585 1575837 | 256 253 | 97.66 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7366 7477 | 1576091 1576201 | 112 111 | 99.11 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7478 7595 | 1576399 1576522 | 118 124 | 95.16 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 7659 8304 | 1576736 1577382 | 646 647 | 95.52 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 10304 10556 | 1577155 1577407 | 253 253 | 96.44 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 8305 8608 | 1577433 1577735 | 304 303 | 96.05 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 8609 9028 | 1577785 1578211 | 420 427 | 95.32 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 9029 9523 | 1578304 1578799 | 495 496 | 97.38 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 856 4676 | 1991061 1987289 | 3821 3773 | 96.83 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Skipping redundant alignment 5721 16957 | 1992448 1981302 | 11237 11147 | 95.71 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+			The best set is below. Score: 1976611.2, number of alignments: 49, unaligned bases: 3736
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 1988712 out of 1992448 non-N bases (99.81%))
+			Real Alignment 1: 1862751 1970978 | 108051 2 | 108228 108050 | 99.58 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+			  Gap between these two alignments (local misassembly). Inconsistency = -82
+			Real Alignment 2: 1861635 1861975 | 109249 108909 | 341 341 | 99.41 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+			  Extensive misassembly (relocation, inconsistency = 3842) between these two alignments
+			Excluding internal overlap of size 5262 between Alignment 3 and 4: 613033 679576 | 1348234 1281917 | 66544 66318 --> 613033 674184 | 1348234 1287179 | 61152 61056
+			Real Alignment 3: 675085 1857231 | 1287178 109811 | 1182147 1177368 | 99.57 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+			  Gap between these two alignments (local misassembly). Inconsistency = 900
+			Excluding internal overlap of size 891 between Alignment 4 and 5: 613033 674184 | 1348234 1287179 | 61152 61056 --> 613927 674184 | 1347343 1287179 | 60258 60165
+			Real Alignment 4: 613927 674184 | 1347343 1287179 | 60258 60165 | 99.6 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+			  Overlap between these two alignments (local misassembly). Inconsistency = -912
+			Real Alignment 5: 447750 614838 | 1514197 1347344 | 167089 166854 | 99.79 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+			  Extensive misassembly (translocation) between these two alignments
+			Excluding internal overlap of size 150 between Alignment 6 and 7: 382 597 | 1514227 1514443 | 216 217 --> 382 449 | 1514227 1514293 | 68 67
+			Real Alignment 6: 382 449 | 1514227 1514293 | 68 67 | 98.62 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 115; 0 mismatches (number of Ns: 0)
+			Real Alignment 7: 565 1032 | 1514294 1514750 | 468 457 | 95.09 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 74; 0 mismatches (number of Ns: 0)
+			Real Alignment 8: 1107 1343 | 1514751 1514985 | 237 235 | 98.31 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 96; 0 mismatches (number of Ns: 0)
+			Real Alignment 9: 1440 1685 | 1514986 1515232 | 246 247 | 98.38 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 35; 0 mismatches (number of Ns: 0)
+			Real Alignment 10: 1721 2311 | 1515233 1515825 | 591 593 | 97.81 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 132; 0 mismatches (number of Ns: 0)
+			Real Alignment 11: 2312 2650 | 1515958 1516297 | 339 340 | 96.76 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Gap between these two alignments (local misassembly). Inconsistency = -889
+			Real Alignment 12: 2008 2526 | 1516544 1517061 | 519 518 | 99.04 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Gap between these two alignments (local misassembly). Inconsistency = 868
+			Real Alignment 13: 3404 3476 | 1517071 1517142 | 73 72 | 97.26 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 28; 0 mismatches (number of Ns: 0)
+			Real Alignment 14: 3505 3655 | 1517143 1517295 | 151 153 | 98.04 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 30; 0 mismatches (number of Ns: 0)
+			Real Alignment 15: 3686 3866 | 1517296 1517474 | 181 179 | 96.13 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 35; 0 mismatches (number of Ns: 0)
+			Real Alignment 16: 3867 4751 | 1517510 1518391 | 885 882 | 97.63 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Extensive misassembly (relocation, inconsistency = -3601) between these two alignments
+			Real Alignment 17: 1165 1411 | 1518406 1518651 | 247 246 | 98.79 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 64; 0 mismatches (number of Ns: 0)
+			Real Alignment 18: 1412 1664 | 1518716 1518970 | 253 255 | 98.43 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 121; 0 mismatches (number of Ns: 0)
+			Real Alignment 19: 1665 2145 | 1519092 1519573 | 481 482 | 98.13 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 29; 0 mismatches (number of Ns: 0)
+			Real Alignment 20: 2146 2213 | 1519603 1519669 | 68 67 | 98.53 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 58; 0 mismatches (number of Ns: 0)
+			Real Alignment 21: 2214 2887 | 1519728 1520395 | 674 668 | 98.52 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 27; 0 mismatches (number of Ns: 0)
+			Excluding internal overlap of size 31 between Alignment 22 and 23: 2915 3047 | 1520396 1520527 | 133 132 --> 2915 3016 | 1520396 1520496 | 102 101
+			Real Alignment 22: 2915 3016 | 1520396 1520496 | 102 101 | 98.5 | AACB03000021.1_Giardia_duodenalis_strain_WB_C6_tig00000035__whole_genome_shotgun_sequence contig_8
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 23: 6738 8477 | 1522217 1520497 | 1740 1721 | 98.39 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 67; 0 mismatches (number of Ns: 0)
+			Real Alignment 24: 6120 6670 | 1522755 1522218 | 551 538 | 97.64 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 163; 0 mismatches (number of Ns: 0)
+			Real Alignment 25: 4990 5956 | 1523717 1522756 | 967 962 | 98.76 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 178; 0 mismatches (number of Ns: 0)
+			Real Alignment 26: 3893 4811 | 1524631 1523718 | 919 914 | 98.69 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 25; 0 mismatches (number of Ns: 0)
+			Real Alignment 27: 3640 3867 | 1524859 1524632 | 228 228 | 98.68 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 29; 0 mismatches (number of Ns: 0)
+			Real Alignment 28: 3496 3610 | 1524975 1524860 | 115 116 | 98.28 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 102; 51 mismatches (number of Ns: 0)
+			Real Alignment 29: 3354 3444 | 1525218 1525129 | 91 90 | 98.9 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+			  Gap between these two alignments (local misassembly). Inconsistency = -68
+			Real Alignment 30: 3087 3209 | 1525553 1525431 | 123 123 | 100.0 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 114; 0 mismatches (number of Ns: 0)
+			Real Alignment 31: 2498 3086 | 1526250 1525668 | 589 583 | 98.47 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 65; 0 mismatches (number of Ns: 0)
+			Real Alignment 32: 1970 2497 | 1526845 1526316 | 528 530 | 98.3 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 28; 0 mismatches (number of Ns: 0)
+			Real Alignment 33: 1826 1969 | 1527016 1526874 | 144 143 | 97.22 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 30; 0 mismatches (number of Ns: 0)
+			Real Alignment 34: 1646 1795 | 1527161 1527017 | 150 145 | 96.0 | AACB03000012.1_Giardia_duodenalis_strain_WB_C6_tig00000014__whole_genome_shotgun_sequence contig_8
+			  Extensive misassembly (translocation) between these two alignments
+			Excluding internal overlap of size 54 between Alignment 35 and 36: 3461 4072 | 1570176 1570784 | 612 609 --> 3515 4072 | 1570230 1570784 | 558 555
+			Real Alignment 35: 405122 448090 | 1570229 1527253 | 42969 42977 | 99.27 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 36: 3515 4072 | 1570230 1570784 | 558 555 | 99.18 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 52; 0 mismatches (number of Ns: 0)
+			Real Alignment 37: 4125 4253 | 1570785 1570911 | 129 127 | 98.45 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: deletion of length 51; 0 mismatches (number of Ns: 0)
+			Real Alignment 38: 4305 5970 | 1570912 1572578 | 1666 1667 | 96.88 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+			  Gap between these two alignments (local misassembly). Inconsistency = 175
+			Real Alignment 39: 6409 8761 | 1572842 1575167 | 2353 2326 | 97.03 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 100; 0 mismatches (number of Ns: 0)
+			Real Alignment 40: 8762 8939 | 1575268 1575444 | 178 177 | 99.44 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 140; 0 mismatches (number of Ns: 0)
+			Real Alignment 41: 8940 9179 | 1575585 1575820 | 240 236 | 95.42 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 55; 0 mismatches (number of Ns: 0)
+			Real Alignment 42: 9180 10102 | 1575876 1576800 | 923 925 | 96.76 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 50; 0 mismatches (number of Ns: 0)
+			Real Alignment 43: 10103 10303 | 1576851 1577054 | 201 204 | 98.53 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+			  Extensive misassembly (relocation, inconsistency = -6097) between these two alignments
+			Real Alignment 44: 4382 4826 | 1577230 1577669 | 445 440 | 95.73 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+			  Indel (> 5bp) between these two alignments: insertion of length 94; 0 mismatches (number of Ns: 0)
+			Real Alignment 45: 4827 5436 | 1577764 1578378 | 610 615 | 98.21 | AACB03000018.1_Giardia_duodenalis_strain_WB_C6_tig00000028__whole_genome_shotgun_sequence contig_8
+			  Extensive misassembly (translocation) between these two alignments
+			Excluding internal overlap of size 13 between Alignment 46 and 47: 4868 23385 | 1969243 1950851 | 18518 18393 --> 4868 23372 | 1969243 1950864 | 18505 18380
+			Real Alignment 46: 23120 395589 | 1950863 1578419 | 372470 372445 | 99.59 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+			  Overlap between these two alignments (local misassembly). Inconsistency = -253
+			Excluding internal overlap of size 97 between Alignment 47 and 48: 4868 23217 | 1987349 1969147 | 18350 18203 --> 4868 23118 | 1987349 1969244 | 18251 18106
+			Real Alignment 47: 4868 23372 | 1969243 1950864 | 18505 18380 | 98.41 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+			  Extensive misassembly (relocation, inconsistency = -18251) between these two alignments
+			Excluding internal overlap of size 97 between Alignment 48 and 49: 17967 23217 | 1992448 1987253 | 5251 5196 --> 17967 23118 | 1992448 1987350 | 5152 5099
+			Real Alignment 48: 4868 23118 | 1987349 1969244 | 18251 18106 | 97.49 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+			  Extensive misassembly (relocation, inconsistency = -18251) between these two alignments
+			Real Alignment 49: 17967 23118 | 1992448 1987350 | 5152 5099 | 96.82 | CM018791.1_Giardia_intestinalis_strain_WB_C6_chromosome_3__whole_genome_shotgun_sequence contig_8
+		Unaligned bases: 3736
+
+CONTIG: contig_9 (891201bp)
+Best alignment score: 329204.0 (LEN: 329996, IDY: 99.76), Total number of alignments: 11
+			Looking for the best set of alignments (out of 11 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1233241 1238511 | 891201 885953 | 5271 5249 | 99.56 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_9
+		Skipping redundant alignment 1233025 1238511 | 891201 885738 | 5487 5464 | 99.56 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_9
+		Skipping redundant alignment 1232809 1238511 | 891201 885523 | 5703 5679 | 99.56 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_9
+		Skipping redundant alignment 1232593 1238511 | 891201 885308 | 5919 5894 | 99.56 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_9
+		Skipping redundant alignment 1232377 1238511 | 891201 885093 | 6135 6109 | 99.56 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_9
+		Skipping redundant alignment 1232161 1238511 | 891201 884878 | 6351 6324 | 99.56 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_9
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 888724.8, number of alignments: 5, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 3911 between Alignment 1 and 2: 1983378 2121637 | 138060 1 | 138260 138060 --> 1987292 2121637 | 134149 1 | 134346 134149
+			Real Alignment 1: 1987292 2121637 | 134149 1 | 134346 134149 | 99.78 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_9
+			  Gap between these two alignments (local misassembly). Inconsistency = 207
+			Excluding internal overlap of size 4280 between Alignment 2 and 3: 1554160 1746561 | 566836 374750 | 192402 192087 --> 1554160 1742277 | 566836 379030 | 188118 187807
+			Real Alignment 2: 1741828 1987084 | 379029 134150 | 245257 244880 | 99.83 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_9
+			  Overlap between these two alignments (local misassembly). Inconsistency = -450
+			Excluding internal overlap of size 6367 between Alignment 3 and 4: 1554160 1742277 | 566836 379030 | 188118 187807 --> 1560528 1742277 | 560469 379030 | 181750 181440
+			Real Alignment 3: 1560528 1742277 | 560469 379030 | 181750 181440 | 99.82 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_9
+			  Extensive misassembly (relocation, inconsistency = -1698) between these two alignments
+			Excluding internal overlap of size 5803 between Alignment 4 and 5: 1231945 1238511 | 891201 884663 | 6567 6539 --> 1231945 1232682 | 891201 890466 | 738 736
+			Real Alignment 4: 1231819 1562225 | 890465 560470 | 330407 329996 | 99.76 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_9
+			  Overlap between these two alignments (local misassembly). Inconsistency = -864
+			Real Alignment 5: 1231945 1232682 | 891201 890466 | 738 736 | 99.56 | CM018793.1_Giardia_intestinalis_strain_WB_C6_chromosome_5__whole_genome_shotgun_sequence contig_9
+
+Analyzing coverage...
+Writing SNPs into /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/contigs_reports/minimap_output/assembly.used_snps
+
+Analysis is finished!
+Founded SNPs were written into /arf/scratch/ecil/MyGenome-Giardiabeaver/my_analysis/results/flye_assembly/quast_results/quast_resultss/contigs_reports/minimap_output/assembly.used_snps
+
+Results:
+	Local Misassemblies: 23
+	Misassemblies: 44
+		Relocations: 18
+		Translocations: 22
+		Inversions: 4
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 12
+	Misassembled Contig Bases: 11045695
+	Misassemblies Inter-Contig Overlap ("Extra" Aligned Bases): 0
+Unaligned Contigs: 0 + 8 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Bases in Fully and Partially Unaligned Contigs: 56093
+
+Ambiguously Mapped Contigs: 14
+Total Bases in Ambiguously Mapped Contigs: 8966431
+"Extra" Aligned Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used (there is no "extra" aligned bases).
+
+	Covered Bases in Reference: 11404498
+	Raw Aligned Bases in Assembly: 11481941
+	Total Aligned Bases in Assembly (with "Extras"): 11481941
+
+	SNPs: 5027
+	Insertions: 9592
+	Deletions: 28480
+

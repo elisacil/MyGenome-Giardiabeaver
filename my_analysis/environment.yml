@@ -1,0 +1,11 @@
+name: giardia_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.10
+  - snakemake
+  - flye
+  - minimap2
+  - samtools
+  - quast
